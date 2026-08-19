@@ -88,7 +88,7 @@ There are pieces of truth inside some of these intuitions.
 
 Exceptional achievement across multiple domains is rare. Developing serious proficiency in one difficult field can require years of learning and practice. Doing so across several fields creates obvious constraints of time, opportunity and attention.
 
-Research on creative polymathy makes precisely this point while also complicating the binary. Robert and Michele Root-Bernstein argue that creative polymathy at the highest levels is rare in part because becoming proficient in any field normally requires substantial training. Yet they also argue that when creativity is considered at multiple levels rather than only through historically eminent achievement, creative polymathy may be considerably more common than the famous cases suggest (Root-Bernstein & Root-Bernstein, 2010).
+Research on creative polymathy makes precisely this point while also complicating the binary. James Kaufman, Ronald Beghetto, John Baer and Zorana Ivcevic argue that creative polymathy at the highest levels is rare in part because becoming proficient in any field normally requires substantial training. Yet they also argue that when creativity is considered at multiple levels rather than only through historically eminent achievement, creative polymathy may be considerably more common than the famous cases suggest (Kaufman et al., 2010).
 
 That is a useful correction, but it needs careful handling.
 
@@ -246,9 +246,7 @@ It is also different from pretending to be an expert in everything.
 
 The engineer in our example does not need to become a psychologist or professional interface designer. In a serious project, she may still need both. Her wider knowledge does something else: it helps her recognise relevant dimensions of the problem, communicate across boundaries and identify when another form of expertise is needed.
 
-Information access now makes this kind of exploration easier than before. It also makes superficial fluency easier to mistake for understanding. That distinction will become especially important when we examine artificial intelligence later in the book.
-
-For now, the point is simpler.
+Later, we will examine how digital search and artificial intelligence complicate the difference between access and understanding. For now, the point is simpler.
 
 Polymathic capability cannot mean frictionless access to many subjects.
 
@@ -284,7 +282,7 @@ The developmental argument therefore cannot be that everyone is secretly Leonard
 
 Nor can it be that anybody can master anything if they try hard enough.
 
-The stronger and more defensible proposition is that polymathic behaviour appears to vary in degree, and that the developmental question is worth investigating.
+Araki's work treats polymathic orientation as something that varies across individuals rather than a binary status (Araki, 2025). That does not yet prove how far the underlying behaviours can be strengthened, but it makes the developmental question legitimate.
 
 How far can it be strengthened?
 
@@ -436,8 +434,8 @@ That is where we go next.
 
 Araki, M. 2025, *Polymathy: The foundational source of creativity and innovation*, PhD dissertation, University of Louisville, Louisville, KY, doi:10.18297/etd/4642.
 
+Kaufman, J.C., Beghetto, R.A., Baer, J. & Ivcevic, Z. 2010, 'Creativity polymathy: What Benjamin Franklin can teach your kindergartener', *Learning and Individual Differences*, vol. 20, no. 4, pp. 380-387, doi:10.1016/j.lindif.2009.10.001.
+
 Keele, K.D. & Roberts, J. 1983, *Leonardo da Vinci: Anatomical drawings from the Royal Library, Windsor Castle*, The Metropolitan Museum of Art, New York.
 
 Metropolitan Museum of Art 2003, *Leonardo da Vinci, Master Draftsman*, exhibition overview, The Metropolitan Museum of Art, New York.
-
-Root-Bernstein, R. & Root-Bernstein, M. 2010, 'Creativity polymathy: What Benjamin Franklin can teach your kindergartener', *Learning and Individual Differences*, vol. 20, no. 4, pp. 380-387, doi:10.1016/j.lindif.2009.10.001.
