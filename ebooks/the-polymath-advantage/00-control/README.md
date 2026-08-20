@@ -39,6 +39,7 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Chapter 5: How Structure Travels - developmentally locked after Wombat review, targeted revision, verified word-count restoration and final claim-to-source verification; 3,580 body words excluding references under the manuscript word-count rule.
 - Chapter 6: Where the Analogy Breaks - developmentally locked after Wombat review, targeted concept-hardening revision and final claim-to-source verification; 3,775 body words excluding references under the manuscript word-count rule.
 - Chapter 7: What Can Actually Be Developed? - developmentally locked after Wombat review, targeted developmental revision and final claim-to-source verification; 3,529 body words excluding references under the manuscript word-count rule.
+- Chapter 8: Building a Polymathic Practice - developmentally locked after Wombat review, targeted de-frameworking revision and final claim-to-source verification; 3,578 body words excluding references under the manuscript word-count rule. Visual opportunity confirmed: YES, recursive problem-centred practice diagram, clearly labelled as author synthesis.
 
 ## Chapter 2 verified evidence anchors
 - Araki, M. 2025, Polymathy: The Foundational Source of Creativity and Innovation, University of Louisville doctoral dissertation, doi:10.18297/etd/4642.
@@ -89,5 +90,20 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Tett, R.P., Toich, M.J. & Ozkum, S.B. 2021, 'Trait activation theory: A review of the literature and applications to five lines of personality dynamics research', Annual Review of Organizational Psychology and Organizational Behavior, vol. 8, pp. 199-233, doi:10.1146/annurev-orgpsych-012420-062228.
 - Kashdan, T.B. & Yuen, M. 2007, 'Whether highly curious students thrive academically depends on perceptions about the school learning environment: A study of Hong Kong adolescents', Motivation and Emotion, vol. 31, no. 4, pp. 260-270, doi:10.1007/s11031-007-9074-9.
 
+## Chapter 8 verified evidence anchors
+- Loewenstein, J., Thompson, L. & Gentner, D. 1999, 'Analogical encoding facilitates knowledge transfer in negotiation', Psychonomic Bulletin & Review, vol. 6, no. 4, pp. 586-597, doi:10.3758/BF03212967.
+- Gentner, D., Loewenstein, J. & Thompson, L. 2003, 'Learning and transfer: A general role for analogical encoding', Journal of Educational Psychology, vol. 95, no. 2, pp. 393-408, doi:10.1037/0022-0663.95.2.393.
+- Macnamara, B.N., Hambrick, D.Z. & Oswald, F.L. 2014, 'Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis', Psychological Science, vol. 25, no. 8, pp. 1608-1618, doi:10.1177/0956797614535810.
+- Melby-Lervåg, M., Redick, T.S. & Hulme, C. 2016, 'Working memory training does not improve performance on measures of intelligence or other measures of far transfer: Evidence from a meta-analytic review', Perspectives on Psychological Science, vol. 11, no. 4, pp. 512-534, doi:10.1177/1745691616635612.
+- Tett, R.P., Toich, M.J. & Ozkum, S.B. 2021, 'Trait activation theory: A review of the literature and applications to five lines of personality dynamics research', Annual Review of Organizational Psychology and Organizational Behavior, vol. 8, pp. 199-233, doi:10.1146/annurev-orgpsych-012420-062228.
+
+## Visual status
+- Chapter 8 visual opportunity: YES.
+- Preferred concept: a real problem at the centre with recurring movements around it: anchor in depth, explore across boundaries, compare and integrate, make/use something, test boundaries, consolidate, then return to the problem.
+- The visual must show recurrence and feedback rather than a numbered or rigid cycle.
+- Label as author synthesis based on Chapters 3-8.
+- Include the idea that the problem is allowed to answer back.
+- Design only after the relevant visual production pass begins.
+
 ## Current next gate
-Begin Chapter 8 exploration and final briefing: Building a Polymathic Practice. Preserve the boundary that Chapter 7 owns the evidence verdict on developability while Chapter 8 owns practice design.
+Begin Chapter 9: Borrowed Breadth. Establish the Final Brief and evidence architecture for the Age of AI argument: AI can dramatically widen access to unfamiliar knowledge, but access must not be confused with understanding, competence, verification, judgement or accountability.
