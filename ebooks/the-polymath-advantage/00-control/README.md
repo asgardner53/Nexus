@@ -36,7 +36,8 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Chapter 2: The Myth of the Universal Genius - developmentally locked after Wombat review and final claim-to-source verification; 3,580 body words excluding references.
 - Chapter 3: Breadth Is Not the Advantage - developmentally locked after Wombat review and final claim-to-source verification; 3,531 body words excluding references under the manuscript word-count rule.
 - Chapter 4: The Ability to Change Lenses - developmentally locked after Wombat review, targeted concept revision and final claim-to-source verification; 3,622 body words excluding references.
-- Chapter 5: next chapter for final briefing and development, focused on analogy and transfer across domains.
+- Chapter 5: How Structure Travels - developmentally locked after Wombat review, targeted revision, verified word-count restoration and final claim-to-source verification; 3,580 body words excluding references under the manuscript word-count rule.
+- Chapter 6: next chapter for exploration and final briefing, focused on where transfer breaks, competence boundaries, calibration and the emergence of polymathic judgement.
 
 ## Chapter 2 verified evidence anchors
 - Araki, M. 2025, Polymathy: The Foundational Source of Creativity and Innovation, University of Louisville doctoral dissertation, doi:10.18297/etd/4642.
@@ -54,5 +55,15 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Bilalić, M., McLeod, P. & Gobet, F. 2008b, 'Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect', Cognition, vol. 108, no. 3, pp. 652-661, doi:10.1016/j.cognition.2008.05.005.
 - Diamond, A. 2013, 'Executive functions', Annual Review of Psychology, vol. 64, pp. 135-168, doi:10.1146/annurev-psych-113011-143750.
 
+## Chapter 5 verified evidence anchors
+- Gentner, D. 1983, 'Structure-mapping: A theoretical framework for analogy', Cognitive Science, vol. 7, no. 2, pp. 155-170, doi:10.1207/s15516709cog0702_3.
+- Gick, M.L. & Holyoak, K.J. 1980, 'Analogical problem solving', Cognitive Psychology, vol. 12, no. 3, pp. 306-355, doi:10.1016/0010-0285(80)90013-4.
+- Gick, M.L. & Holyoak, K.J. 1983, 'Schema induction and analogical transfer', Cognitive Psychology, vol. 15, no. 1, pp. 1-38, doi:10.1016/0010-0285(83)90002-6.
+- Holyoak, K.J. & Koh, K. 1987, 'Surface and structural similarity in analogical transfer', Memory & Cognition, vol. 15, no. 4, pp. 332-340, doi:10.3758/BF03197035.
+- Novick, L.R. 1988, 'Analogical transfer, problem similarity, and expertise', Journal of Experimental Psychology: Learning, Memory, and Cognition, vol. 14, no. 3, pp. 510-520, doi:10.1037/0278-7393.14.3.510.
+- Loewenstein, J., Thompson, L. & Gentner, D. 1999, 'Analogical encoding facilitates knowledge transfer in negotiation', Psychonomic Bulletin & Review, vol. 6, no. 4, pp. 586-597, doi:10.3758/BF03212967.
+- Gentner, D., Loewenstein, J. & Thompson, L. 2003, 'Learning and transfer: A general role for analogical encoding', Journal of Educational Psychology, vol. 95, no. 2, pp. 393-408, doi:10.1037/0022-0663.95.2.393.
+- Chan, J. & Schunn, C.D. 2015, 'The impact of analogies on creative concept generation: Lessons from an in vivo study in engineering design', Cognitive Science, vol. 39, no. 1, pp. 126-155, doi:10.1111/cogs.12127.
+
 ## Current next gate
-Develop the Final Brief for Chapter 5 on analogy and transfer, then draft to the agreed word-count range with the same readability, authenticity, Wombat red-team and final claim-to-source verification gates.
+Explore Chapter 6 on where analogy and transfer break, competence boundaries, calibration and the emergence of polymathic judgement before freezing its Final Brief.
