@@ -210,6 +210,16 @@ A psychologist's concept becomes useful to an engineer not because the engineer 
 
 This is the point at which breadth starts becoming integration: not when two subjects appear on the same reading list, but when a structure learned in one place becomes available for thought somewhere else.
 
+Consider an experienced operations leader reading outside their field about aviation incident investigation, hospital safety and cybersecurity breaches. At the level of topic, the cases could not be more different. Aircraft incidents involve crews, equipment and flight conditions. Hospital events involve patients, clinicians and care systems. Cyber incidents involve networks, attackers, controls and human behaviour.
+
+If those cases are remembered only by industry, they remain interesting examples in separate mental folders. But comparison may reveal a recurring relationship: the visible failure at the end of the chain is often easier to notice than the conditions that made the failure possible. Weak signals can accumulate. Local decisions can be reasonable in isolation. Safeguards can erode gradually. The final event can look sudden even when the system has been becoming fragile for some time.
+
+That pattern does not prove that an aviation model should be imported wholesale into a hospital or that a cyberattack should be analysed like an aircraft accident. The domains contain different risks, responsibilities and causal mechanisms. But the recurring structure can change the questions the operations leader asks in their own environment. Instead of asking only, “Who made the mistake?”, they may also ask, “What conditions made this mistake easier to make, harder to detect or more consequential?”
+
+This is what usable breadth looks like in practice. The value is not the impressive fact that someone has read across three industries. The value appears when comparison makes a relationship available for a new problem without erasing the differences among the original domains.
+
+In that sense, broad learning becomes less about collecting intellectual souvenirs and more about building a repertoire of patterns that can be called into question elsewhere. The pattern is not the answer. It is a better place to begin searching.
+
 ### Far Does Not Automatically Mean Creative
 
 There is a romantic version of cross-domain thinking in which the most distant analogy produces the biggest creative breakthrough.
