@@ -37,7 +37,7 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Chapter 3: Breadth Is Not the Advantage - developmentally locked after Wombat review and final claim-to-source verification; 3,531 body words excluding references under the manuscript word-count rule.
 - Chapter 4: The Ability to Change Lenses - developmentally locked after Wombat review, targeted concept revision and final claim-to-source verification; 3,622 body words excluding references.
 - Chapter 5: How Structure Travels - developmentally locked after Wombat review, targeted revision, verified word-count restoration and final claim-to-source verification; 3,580 body words excluding references under the manuscript word-count rule.
-- Chapter 6: next chapter for exploration and final briefing, focused on where transfer breaks, competence boundaries, calibration and the emergence of polymathic judgement.
+- Chapter 6: Where the Analogy Breaks - developmentally locked after Wombat review, targeted concept-hardening revision and final claim-to-source verification; 3,775 body words excluding references under the manuscript word-count rule.
 
 ## Chapter 2 verified evidence anchors
 - Araki, M. 2025, Polymathy: The Foundational Source of Creativity and Innovation, University of Louisville doctoral dissertation, doi:10.18297/etd/4642.
@@ -65,5 +65,14 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Gentner, D., Loewenstein, J. & Thompson, L. 2003, 'Learning and transfer: A general role for analogical encoding', Journal of Educational Psychology, vol. 95, no. 2, pp. 393-408, doi:10.1037/0022-0663.95.2.393.
 - Chan, J. & Schunn, C.D. 2015, 'The impact of analogies on creative concept generation: Lessons from an in vivo study in engineering design', Cognitive Science, vol. 39, no. 1, pp. 126-155, doi:10.1111/cogs.12127.
 
+## Chapter 6 verified evidence anchors
+- Rozenblit, L. & Keil, F. 2002, 'The misunderstood limits of folk science: An illusion of explanatory depth', Cognitive Science, vol. 26, no. 5, pp. 521-562, doi:10.1207/s15516709cog2605_1.
+- Fleming, S.M. 2024, 'Metacognition and confidence: A review and synthesis', Annual Review of Psychology, vol. 75, pp. 241-268, doi:10.1146/annurev-psych-022423-032425.
+- Porter, T., Elnakouri, A., Meyers, E.A., Shibayama, T., Jayawickreme, E. & Grossmann, I. 2022, 'Predictors and consequences of intellectual humility', Nature Reviews Psychology, vol. 1, pp. 524-536, doi:10.1038/s44159-022-00081-9.
+- Pritchard, D. 2021, 'Intellectual humility and the epistemology of disagreement', Synthese, vol. 198, suppl. 7, pp. 1711-1723, doi:10.1007/s11229-018-02024-5.
+- Peltokorpi, V. & Hood, A.C. 2019, 'Communication in theory and research on transactive memory systems: A literature review', Topics in Cognitive Science, vol. 11, no. 4, pp. 644-667, doi:10.1111/tops.12359.
+- Argote, L. & Ren, Y. 2012, 'Transactive memory systems: A microfoundation of dynamic capabilities', Journal of Management Studies, vol. 49, no. 8, pp. 1375-1382, doi:10.1111/j.1467-6486.2012.01077.x.
+- Faraj, S. & Yan, A. 2009, 'Boundary work in knowledge teams', Journal of Applied Psychology, vol. 94, no. 3, pp. 604-617, doi:10.1037/a0014367.
+
 ## Current next gate
-Explore Chapter 6 on where analogy and transfer break, competence boundaries, calibration and the emergence of polymathic judgement before freezing its Final Brief.
+Confirm the approved manuscript architecture for Chapter 7, then begin exploration and final briefing without changing the six locked chapters unless a later whole-manuscript review reveals a genuine issue.
