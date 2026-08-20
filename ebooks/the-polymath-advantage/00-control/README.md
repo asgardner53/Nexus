@@ -35,7 +35,8 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Chapter 1: The World Was Built for Specialists - developmentally locked for manuscript progression; 3,508 body words excluding references.
 - Chapter 2: The Myth of the Universal Genius - developmentally locked after Wombat review and final claim-to-source verification; 3,580 body words excluding references.
 - Chapter 3: Breadth Is Not the Advantage - developmentally locked after Wombat review and final claim-to-source verification; 3,531 body words excluding references under the manuscript word-count rule.
-- Chapter 4: The Ability to Change Lenses - next chapter for final briefing and development.
+- Chapter 4: The Ability to Change Lenses - developmentally locked after Wombat review, targeted concept revision and final claim-to-source verification; 3,622 body words excluding references.
+- Chapter 5: next chapter for final briefing and development, focused on analogy and transfer across domains.
 
 ## Chapter 2 verified evidence anchors
 - Araki, M. 2025, Polymathy: The Foundational Source of Creativity and Innovation, University of Louisville doctoral dissertation, doi:10.18297/etd/4642.
@@ -48,5 +49,10 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Chi, M.T.H., Feltovich, P.J. & Glaser, R. 1981, 'Categorization and representation of physics problems by experts and novices', Cognitive Science, vol. 5, no. 2, pp. 121-152, doi:10.1207/s15516709cog0502_2.
 - Hill, R., Yin, Y., Stein, C., Wang, X., Wang, D. & Jones, B.F. 2025, 'The pivot penalty in research', Nature, vol. 642, pp. 999-1006, doi:10.1038/s41586-025-09048-1.
 
+## Chapter 4 verified evidence anchors
+- Bilalić, M., McLeod, P. & Gobet, F. 2008a, 'Inflexibility of experts—reality or myth? Quantifying the Einstellung effect in chess masters', Cognitive Psychology, vol. 56, no. 2, pp. 73-102, doi:10.1016/j.cogpsych.2007.02.001.
+- Bilalić, M., McLeod, P. & Gobet, F. 2008b, 'Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect', Cognition, vol. 108, no. 3, pp. 652-661, doi:10.1016/j.cognition.2008.05.005.
+- Diamond, A. 2013, 'Executive functions', Annual Review of Psychology, vol. 64, pp. 135-168, doi:10.1146/annurev-psych-113011-143750.
+
 ## Current next gate
-Develop the Final Brief for Chapter 4, The Ability to Change Lenses, then draft to the agreed word-count range with the same readability, authenticity, Wombat red-team and final claim-to-source verification gates.
+Develop the Final Brief for Chapter 5 on analogy and transfer, then draft to the agreed word-count range with the same readability, authenticity, Wombat red-team and final claim-to-source verification gates.
