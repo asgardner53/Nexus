@@ -38,6 +38,7 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Chapter 4: The Ability to Change Lenses - developmentally locked after Wombat review, targeted concept revision and final claim-to-source verification; 3,622 body words excluding references.
 - Chapter 5: How Structure Travels - developmentally locked after Wombat review, targeted revision, verified word-count restoration and final claim-to-source verification; 3,580 body words excluding references under the manuscript word-count rule.
 - Chapter 6: Where the Analogy Breaks - developmentally locked after Wombat review, targeted concept-hardening revision and final claim-to-source verification; 3,775 body words excluding references under the manuscript word-count rule.
+- Chapter 7: What Can Actually Be Developed? - developmentally locked after Wombat review, targeted developmental revision and final claim-to-source verification; 3,529 body words excluding references under the manuscript word-count rule.
 
 ## Chapter 2 verified evidence anchors
 - Araki, M. 2025, Polymathy: The Foundational Source of Creativity and Innovation, University of Louisville doctoral dissertation, doi:10.18297/etd/4642.
@@ -74,5 +75,19 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Argote, L. & Ren, Y. 2012, 'Transactive memory systems: A microfoundation of dynamic capabilities', Journal of Management Studies, vol. 49, no. 8, pp. 1375-1382, doi:10.1111/j.1467-6486.2012.01077.x.
 - Faraj, S. & Yan, A. 2009, 'Boundary work in knowledge teams', Journal of Applied Psychology, vol. 94, no. 3, pp. 604-617, doi:10.1037/a0014367.
 
+## Chapter 7 verified evidence anchors
+- Jackson, J.J. & Wright, A.J. 2024, 'The process and mechanisms of personality change', Nature Reviews Psychology, vol. 3, pp. 305-318, doi:10.1038/s44159-024-00295-z.
+- Haehner, P., Wright, A.J. & Bleidorn, W. 2024, 'A systematic review of volitional personality change research', Communications Psychology, vol. 2, article 115, doi:10.1038/s44271-024-00167-5.
+- Kashdan, T.B., Stiksma, M.C., Disabato, D.J., McKnight, P.E., Bekier, J., Kaji, J. & Lazarus, R. 2018, 'The five-dimensional curiosity scale: Capturing the bandwidth of curiosity and identifying four unique subgroups of curious people', Journal of Research in Personality, vol. 73, pp. 130-149, doi:10.1016/j.jrp.2017.11.011.
+- Kashdan, T.B., Disabato, D.J., Goodman, F.R. & McKnight, P.E. 2020, 'The Five-Dimensional Curiosity Scale Revised (5DCR): Briefer subscales while separating overt and covert social curiosity', Personality and Individual Differences, vol. 157, 109836, doi:10.1016/j.paid.2020.109836.
+- Macnamara, B.N., Hambrick, D.Z. & Oswald, F.L. 2014, 'Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis', Psychological Science, vol. 25, no. 8, pp. 1608-1618, doi:10.1177/0956797614535810.
+- Loewenstein, J., Thompson, L. & Gentner, D. 1999, 'Analogical encoding facilitates knowledge transfer in negotiation', Psychonomic Bulletin & Review, vol. 6, no. 4, pp. 586-597, doi:10.3758/BF03212967.
+- Gentner, D., Loewenstein, J. & Thompson, L. 2003, 'Learning and transfer: A general role for analogical encoding', Journal of Educational Psychology, vol. 95, no. 2, pp. 393-408, doi:10.1037/0022-0663.95.2.393.
+- Melby-Lervåg, M., Redick, T.S. & Hulme, C. 2016, 'Working memory training does not improve performance on measures of intelligence or other measures of far transfer: Evidence from a meta-analytic review', Perspectives on Psychological Science, vol. 11, no. 4, pp. 512-534, doi:10.1177/1745691616635612.
+- Kelly, M.O. & Mandel, D.R. 2024, 'The effect of calibration training on the calibration of intelligence analysts' judgments', Applied Cognitive Psychology, vol. 38, no. 5, e4236, doi:10.1002/acp.4236.
+- Martin, M. & Mandel, D.R. 2025, 'Calibration feedback with the Practical Scoring Rule does not improve calibration of confidence', Futures & Foresight Science, vol. 7, no. 1, e199, doi:10.1002/ffo2.199.
+- Tett, R.P., Toich, M.J. & Ozkum, S.B. 2021, 'Trait activation theory: A review of the literature and applications to five lines of personality dynamics research', Annual Review of Organizational Psychology and Organizational Behavior, vol. 8, pp. 199-233, doi:10.1146/annurev-orgpsych-012420-062228.
+- Kashdan, T.B. & Yuen, M. 2007, 'Whether highly curious students thrive academically depends on perceptions about the school learning environment: A study of Hong Kong adolescents', Motivation and Emotion, vol. 31, no. 4, pp. 260-270, doi:10.1007/s11031-007-9074-9.
+
 ## Current next gate
-Confirm the approved manuscript architecture for Chapter 7, then begin exploration and final briefing without changing the six locked chapters unless a later whole-manuscript review reveals a genuine issue.
+Begin Chapter 8 exploration and final briefing: Building a Polymathic Practice. Preserve the boundary that Chapter 7 owns the evidence verdict on developability while Chapter 8 owns practice design.
