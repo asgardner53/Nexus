@@ -244,7 +244,7 @@ Keep a person in the loop and the problem disappears.
 
 The evidence is less reassuring.
 
-In an incentivised behavioural experiment, Andreas Klingbeil, Christopher Grützner and Philipp Schreck found that participants could over-rely on AI advice even when it conflicted with contextual information and their own assessment. The study does not establish that people always over-trust AI, but it shows that nominal human control does not guarantee appropriate reliance (Klingbeil, Grützner & Schreck, 2024).
+In an incentivised behavioural experiment, Andreas Klingbeil, Cassandra Grützner and Philipp Schreck found that participants could over-rely on AI advice even when it conflicted with contextual information and their own assessment. The study does not establish that people always over-trust AI, but it shows that nominal human control does not guarantee appropriate reliance (Klingbeil, Grützner & Schreck, 2024).
 
 A later study by Pearson and colleagues examined reliance on deliberately unreliable AI guidance in a face-authenticity task. Participants' attitudes towards AI influenced how the guidance affected discrimination performance, again showing that reliance depends on the interaction between human beliefs, task conditions and system output rather than on a simple human-versus-machine divide (Pearson et al., 2026).
 
@@ -406,7 +406,7 @@ Autio, C., Schwartz, R., Dunietz, J., Jain, S., Stanley, M., Tabassi, E., Hall, 
 
 Brynjolfsson, E., Li, D. & Raymond, L.R. 2025, 'Generative AI at Work', *The Quarterly Journal of Economics*, vol. 140, no. 2, pp. 889-942, doi:10.1093/qje/qjae044.
 
-Dell'Acqua, F., McFowland III, E., Mollick, E.R., Lifshitz-Assaf, H., Kellogg, K.C., Rajendran, S., Krayer, L., Candelon, F. & Lakhani, K.R. 2026, 'Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality', *Organization Science*, Articles in Advance.
+Dell'Acqua, F., McFowland III, E., Mollick, E.R., Lifshitz, H., Kellogg, K.C., Rajendran, S., Krayer, L., Candelon, F. & Lakhani, K.R. 2026, 'Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality', *Organization Science*, vol. 37, no. 2, pp. 403-423, doi:10.1287/orsc.2025.21838.
 
 Klingbeil, A., Grützner, C. & Schreck, P. 2024, 'Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI', *Computers in Human Behavior*, vol. 160, article 108352, doi:10.1016/j.chb.2024.108352.
 
