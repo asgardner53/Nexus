@@ -52,8 +52,6 @@ A stable operating unit is not backward because it values repeatability.
 
 **The same boundary that protects depth can also block transfer.**
 
-That is the tension Chapter 11 needs to hold.
-
 Imagine a large organisation with separate customer, technology, risk and operations functions. Each has developed genuine depth. The problem appears when a customer issue crosses all four functions but the organisation's operating architecture still treats it as though it belongs cleanly to one.
 
 Customer teams see complaints.
@@ -78,9 +76,9 @@ Anything specialised becomes a silo. Any hierarchy becomes a silo. Any team that
 
 That makes the term almost useless.
 
-A more useful definition is behavioural.
+For the purposes of this argument, the useful distinction is between a boundary that preserves depth and one that prevents relevant knowledge from moving.
 
-**A silo is not a boundary. It is a boundary that has stopped useful knowledge moving.**
+In that sense, a silo is a boundary that has stopped useful knowledge moving.
 
 That can happen in several ways.
 
@@ -96,13 +94,7 @@ Nor does it mean all reluctance to share is dysfunctional. Confidentiality, priv
 
 The narrower lesson is that knowledge availability is partly shaped by organisational conditions.
 
-People notice what the organisation rewards.
-
-They notice whether sharing credit costs them influence.
-
-They notice whether admitting uncertainty is punished.
-
-They notice whether another function uses their contribution intelligently or merely extracts it and moves on.
+People notice what the organisation rewards. They notice whether sharing credit costs them influence, whether admitting uncertainty is punished and whether another function uses their contribution intelligently or simply extracts it and moves on.
 
 What looks like an information problem can therefore be an organisational-design problem.
 
@@ -150,7 +142,7 @@ The more signals arrive, the more important it becomes to distinguish noise from
 
 **The more knowledge becomes available, the more valuable the ability to absorb it becomes.**
 
-That is a synthesis from the evidence rather than a law of organisational behaviour. But it describes an increasingly important asymmetry: acquisition can scale faster than understanding.
+That is a synthesis from the evidence rather than a law of organisational behaviour. It describes an asymmetry that matters to this book: acquisition can scale faster than understanding.
 
 ### The Hidden Knowledge System
 
@@ -164,21 +156,15 @@ They do not reveal which engineer everyone quietly consults before approving a d
 
 Knowledge moves through both formal and informal architecture.
 
-Formal systems matter. Governance forums, project structures, repositories, reporting lines, decision rights and documented processes can all help knowledge become findable and usable.
+Reagans and McEvily's study of knowledge transfer in a contract R&D organisation found that both social cohesion and network range facilitated knowledge transfer beyond the effect of tie strength, illustrating how informal network structure can affect whether complex knowledge travels effectively (Reagans & McEvily, 2003).
 
-Informal systems matter too. Trusted relationships, professional communities, advice networks and boundary-spanning individuals often move knowledge long before a formal process catches up.
+That does not make informal networks inherently superior to formal systems.
 
-Neither is automatically superior.
+Formal governance forums, project structures, repositories, reporting lines, decision rights and documented processes can all help knowledge become findable and usable. Informal relationships, professional communities and advice networks can move knowledge quickly, but they can also become opaque or exclusionary.
 
-Formal systems can become bureaucratic.
+A highly connected employee may help several functions communicate and simultaneously become a bottleneck if every important issue has to pass through them.
 
-Informal systems can become opaque.
-
-A highly connected employee can help several functions communicate, but that same person can become a bottleneck if every important issue has to pass through them. A trusted informal network may accelerate problem-solving for insiders while making expertise less accessible to people outside the network.
-
-This is why organisational polymathy cannot simply mean “encourage networking”.
-
-The design question is more precise.
+The design question is therefore more precise than “encourage networking”.
 
 Where does knowledge repeatedly need to cross a boundary, and how reliable is that crossing?
 
@@ -186,7 +172,7 @@ Consider an organisation where technical experts sit in one central function whi
 
 A local operating problem may require technical input. If the only route is an overloaded central queue, the knowledge exists but remains functionally distant.
 
-The organisation might solve that by creating a boundary role, a recurring cross-functional forum, a community of practice or a clearer escalation path.
+The organisation might respond with a boundary role, a recurring cross-functional forum, a community of practice or a clearer escalation path.
 
 The mechanism matters more than the fashionable label.
 
@@ -208,13 +194,13 @@ Information has a cost.
 
 Every message consumes attention. Every forum creates coordination overhead. Every additional participant changes decision speed. Some knowledge is sensitive. Some is irrelevant. Some requires expertise to interpret. Some should remain within a clearly accountable professional domain until a boundary condition is reached.
 
-This is why the chapter's organising idea is **selective permeability**.
+This is where I use the phrase **selective permeability**.
 
-Selective permeability is the capacity to let relevant knowledge cross functional, hierarchical, professional and external boundaries without pretending that all knowledge should flow everywhere.
+Knowledge management asks a broader question about how organisations create, capture, share and use knowledge. The narrower concern here is what happens when the boundary that creates specialist depth is also the boundary a consequential problem needs to cross. Selective permeability is the book's name for managing that tension, not a replacement for established knowledge-management concepts.
 
-It is author synthesis, not an established organisational construct.
+It also does not replace absorptive capacity, knowledge transfer, boundary spanning or knowledge integration. Those literatures explain important mechanisms by which organisations recognise, move and combine knowledge. The narrower question here is where permeability is required, for what problem, while preserving the value of the boundary itself.
 
-The principle is simple:
+Selective permeability therefore means allowing relevant knowledge to cross functional, hierarchical, professional and external boundaries without pretending that all knowledge should flow everywhere.
 
 **The objective is not maximum flow. It is relevant flow.**
 
@@ -222,13 +208,7 @@ The right question is not, “How do we get everybody collaborating more?”
 
 It is, “Which knowledge needs to cross which boundary for this problem?”
 
-That changes the design.
-
-A recurring regulatory issue may require a reliable legal-operations pathway.
-
-A complex customer problem may require customer evidence to reach product and technology teams without being reduced to a satisfaction score.
-
-An emerging technology risk may require external research to reach governance before commercial enthusiasm hardens into commitment.
+A recurring regulatory issue may require a reliable legal-operations pathway. A complex customer problem may require customer evidence to reach product and technology teams without being reduced to a satisfaction score. An emerging technology risk may require external research to reach governance before commercial enthusiasm hardens into commitment.
 
 Not every boundary requires permanent permeability.
 
@@ -236,85 +216,45 @@ Some need a doorway rather than an open wall.
 
 There is another boundary that matters: the boundary between knowing and deciding.
 
-Organisations often assume that if the right people are consulted, the knowledge problem is solved. It is not. A specialist may contribute excellent advice and still be unable to influence the decision if authority sits elsewhere and the decision process treats expertise as optional input.
+Organisations often assume that if the right people are consulted, the knowledge problem is solved. It is not. A specialist may contribute excellent advice and still be unable to influence the decision if authority sits elsewhere and the process treats expertise as optional input. The reverse problem also occurs: decision-makers may carry formal authority without enough access to the knowledge needed to use it well.
 
-The reverse problem also occurs. Decision-makers may carry formal authority without enough access to the knowledge needed to use it well.
-
-This creates a subtle organisational failure: knowledge and authority become misaligned.
-
-The answer is not to hand every decision to the deepest specialist. Specialists can understand one part of a problem brilliantly while missing commercial, operational or ethical consequences elsewhere. Nor should seniority automatically override specialist constraint.
+The answer is not to hand every decision to the deepest specialist. Specialists can understand one part of a problem brilliantly while missing consequences elsewhere. Nor should seniority automatically override specialist constraint.
 
 The organisation needs a way for relevant depth to reach decision authority with enough force to matter.
 
-Sometimes that means a formal approval right.
-
-Sometimes it means mandatory specialist review.
-
-Sometimes it means an escalation threshold.
-
-Sometimes it simply means making clear which claims are advisory and which represent a professional or governance constraint.
-
-The exact mechanism depends on the consequence.
-
 What matters is that permeability reaches the decision, not merely the discussion.
 
-A great deal of organisational collaboration stops one step too early. People share. They meet. They exchange perspectives. A summary is produced. Then the formal decision follows the same route it would have followed before, and the cross-boundary knowledge becomes decorative.
+A great deal of organisational collaboration stops one step too early. People share, meet and exchange perspectives. A summary is produced. Then the formal decision follows the same route it would have followed before, and the cross-boundary knowledge becomes decorative.
 
-This is why organisational knowledge movement cannot be separated from decision design.
+**Relevant knowledge needs a path not only into conversation but into authority.**
 
-Relevant knowledge needs a path not only into conversation but into authority.
-
-That does not mean expertise should dominate every decision. It means the organisation should be explicit about when specialist evidence can be overruled, by whom, and on what basis.
-
-The principle is particularly important for high-consequence work. If risk, safety, legal, technical or professional expertise is routinely invited but structurally easy to ignore, the organisation has created the appearance of integration without its discipline.
-
-Selective permeability therefore has two directions.
+The organisation should be clear about how specialist evidence enters a decision, what authority it carries and how disagreement or override is handled. The exact mechanism depends on the consequence and the professional setting.
 
 Knowledge must be able to cross toward the decision.
 
 And the decision must remain exposed to knowledge capable of constraining it.
 
+These are author-level design propositions, not claims that a single empirical literature has established one universal governance model.
+
 ### Search and Execution Need Different Conditions
 
 There is another reason not to make the entire organisation porous.
 
-Searching for new knowledge and executing established work are different activities.
+Searching for new knowledge and executing established work are different activities. Organisational research often describes this distinction through exploration and exploitation: one concerns search, experimentation and alternatives; the other concerns refinement, efficiency and use of established competence.
 
-Organisational research often describes this distinction through exploration and exploitation.
+Meta-analytic research supports a relationship between organisational ambidexterity and performance while also showing substantial contextual variation (Junni et al., 2013). Fourné and colleagues' analysis of 114 studies covering 33,492 organisations found that structural and contextual approaches performed differently across organisational and environmental conditions, while Wenke, Zapkau and Schwens found further nuance among SMEs rather than a universal advantage for ambidexterity (Fourné et al., 2019; Wenke, Zapkau & Schwens, 2021).
 
-Exploration concerns search, experimentation and alternatives.
+The lesson is not that every organisation should become ambidextrous in the same way.
 
-Exploitation concerns refinement, efficiency and use of established competence.
+It is that organisations need ways to search beyond what they already know without making every part of the business behave like an experiment.
 
-Both matter.
-
-But they do not necessarily thrive under identical conditions.
-
-Junni and colleagues' meta-analysis found a positive relationship between organisational ambidexterity and performance, but also substantial moderation by context and research design (Junni et al., 2013).
-
-Fourné and colleagues later synthesised 114 primary studies covering 33,492 organisations and found that structural and contextual approaches to balancing exploration and exploitation performed differently across organisational and environmental conditions. Structural separation was more conducive in some high-technology settings, while service contexts could benefit differently (Fourné et al., 2019).
-
-The SME evidence adds another useful warning against universal prescriptions. Wenke, Zapkau and Schwens analysed 34 studies covering 5,488 SMEs and found positive relationships between exploration, exploitation and ambidexterity and performance, but SMEs in their sample benefited more from exploration or exploitation than from ambidexterity (Wenke, Zapkau & Schwens, 2021).
-
-So the lesson is not that every organisation should become ambidextrous in the same way.
-
-The stronger conclusion is that organisations need ways to search beyond what they already know without making every part of the business behave like an experiment.
-
-A research unit may need freedom to explore uncertain possibilities.
-
-A payroll process should probably not be rediscovered every fortnight.
-
-A cybersecurity team may need to scan emerging threats aggressively while maintaining highly standardised incident controls.
-
-A product group may experiment with new customer experiences while a regulated operational process remains tightly governed.
+A research unit may need freedom to explore uncertain possibilities. A payroll process should probably not be rediscovered every fortnight. A cybersecurity team may scan emerging threats aggressively while maintaining highly standardised incident controls.
 
 **An organisation needs places where knowledge can wander and places where work cannot.**
 
-That distinction protects Chapter 11 from a common mistake.
-
 Polymathic capability does not require permanent organisational looseness.
 
-It requires the ability to move between exploration and disciplined execution without confusing their purposes.
+It requires the ability to protect both search and disciplined execution without confusing their purposes.
 
 ### Incentives Decide What Becomes Visible
 
@@ -326,35 +266,21 @@ People choose what to surface, what to hold, what to escalate and what to leave 
 
 They make those choices inside incentive systems.
 
-An organisation may say that collaboration matters while rewarding local performance so aggressively that sharing useful knowledge weakens a unit's comparative advantage.
+The knowledge-hiding meta-analysis establishes that organisational and leadership conditions matter to knowledge-hiding behaviour (Shen et al., 2025). The particular tensions that follow are practical illustrations of how misalignment can appear rather than direct findings from that one study.
 
-It may praise enterprise thinking while promotion depends almost entirely on the success of one's own function.
+An organisation may say collaboration matters while rewarding local performance so aggressively that sharing useful knowledge weakens a unit's comparative advantage. It may praise enterprise thinking while promotion depends almost entirely on the success of one's own function. It may ask experts to contribute across the organisation without allocating time for the work.
 
-It may ask experts to contribute across the organisation without allocating time for the work.
-
-It may reward being the person with the answer more than being the person who makes the answer reusable by others.
-
-The knowledge-hiding evidence matters here because it shows that organisational and leadership conditions are related to whether knowledge is withheld (Shen et al., 2025).
-
-But the conclusion should remain careful.
-
-There is no single reward mechanism that makes knowledge flow.
-
-Group incentives can create their own problems. Individual incentives are not inherently destructive. Status can motivate contribution as well as hoarding.
+There is no single reward mechanism that makes knowledge flow. Group incentives can create their own problems. Individual incentives are not inherently destructive. Status can motivate contribution as well as hoarding.
 
 The point is alignment.
 
 **What organisations reward changes what people are willing to make visible.**
 
-If cross-boundary contribution carries cost but no recognition, it will depend on goodwill.
-
-If local optimisation is consistently rewarded over system outcomes, local knowledge may remain local even when the organisation needs it elsewhere.
+If cross-boundary contribution carries cost but no recognition, it will depend on goodwill. If local optimisation is consistently rewarded over system outcomes, local knowledge may remain local even when the organisation needs it elsewhere.
 
 The organisation cannot ask knowledge to travel while designing incentives that tell people to keep it home.
 
 ### Build Connections Where the Work Crosses Boundaries
-
-This brings us to the practical centre of the chapter.
 
 Do not redesign the whole organisation around constant collaboration.
 
@@ -362,21 +288,9 @@ Look for the places where consequential problems repeatedly cross boundaries.
 
 Then build reliable connections there.
 
-A cross-functional forum may be useful when the same decision repeatedly requires several professional lenses.
-
-A community of practice may help expertise move among people doing similar work in different units.
-
-A temporary project team may be appropriate when a problem cuts across functions for a limited period.
-
-A shared artefact can help several disciplines work around the same problem.
-
-A boundary role can help translate between two areas that repeatedly misunderstand one another.
-
-An external expert network can extend the organisation's competence boundary without pretending every capability must be internal.
+A cross-functional forum may be useful when the same decision repeatedly requires several professional lenses. A community of practice may help expertise move among people doing similar work in different units. A temporary project team may suit a problem that cuts across functions for a limited period. A shared artefact can help several disciplines work around the same problem. An external expert network can extend the organisation's competence boundary without pretending every capability must be internal.
 
 These are examples, not a universal operating model.
-
-The underlying principle is connective capacity.
 
 **The organisation needs connective capacity, not a single connective genius.**
 
@@ -408,41 +322,23 @@ The connection needs some institutional memory.
 
 Generative AI changes this organisational problem without creating it.
 
-It can increase external scanning.
-
-It can translate unfamiliar material.
-
-It can summarise research.
-
-It can help teams compare perspectives and retrieve information across large internal knowledge bases.
+It can increase external scanning, translate unfamiliar material, summarise research and help teams retrieve information across large internal knowledge bases.
 
 All of that may make knowledge more accessible.
 
-Chapter 9 established why accessibility should not be confused with understanding.
+Chapter 9 established why accessibility should not be confused with understanding. At organisational scale, the same warning becomes structural.
 
-At organisational scale, the same warning becomes structural.
+A company can deploy AI across thousands of employees and dramatically increase the volume of information entering decisions. That does not mean the organisation's absorptive capacity has increased at the same rate.
 
-A company can deploy AI across thousands of employees and dramatically increase the volume of information entering decisions.
-
-That does not mean the organisation's absorptive capacity has increased at the same rate.
-
-The employees still need enough expertise to challenge generated material.
-
-The organisation still needs provenance and governance.
-
-Different functions still need to interpret the information through different professional standards.
-
-Decision rights still matter.
-
-Accountability still matters.
+The employees still need enough expertise to challenge generated material. The organisation still needs provenance and governance. Different functions still need to interpret information through different professional standards. Decision rights and accountability still matter.
 
 **AI can increase the inflow. It cannot decide what the organisation is capable of absorbing.**
 
-This is where the evidence on absorptive capacity becomes especially relevant. Stettler and colleagues found that the relationship between absorptive capacity and innovation was stronger in knowledge-rich environments (Stettler et al., 2025).
+Stettler and colleagues found that the relationship between absorptive capacity and innovation was stronger in knowledge-rich environments (Stettler et al., 2025).
 
-AI is not the subject of that study, and it would be an overreach to claim that the research proves an AI-specific effect.
+AI was not the subject of that study, and it would be an overreach to claim an AI-specific effect.
 
-But the relationship offers a useful organisational warning for an era in which information access is becoming easier.
+The finding instead offers a useful organisational warning for an era in which information access is becoming easier.
 
 Knowledge abundance does not abolish organisational learning.
 
@@ -460,23 +356,15 @@ Not that all boundaries disappear.
 
 Not that information flows without constraint.
 
-And not that the organisation builds one enormous repository containing everything anybody has ever learned.
-
 The idea is narrower.
 
 **Organisational polymathic capability is the capacity of an organisation to preserve differentiated depth while moving relevant knowledge across boundaries so that complex problems can be reframed, integrated and acted on responsibly.**
 
 That is author synthesis.
 
-Its foundations come from several established literatures rather than one validated construct with the same name.
+It does not replace absorptive capacity, knowledge transfer, boundary spanning or knowledge integration. It describes how those established mechanisms contribute to the narrower problem developed in this book: preserving depth while enabling consequential cross-boundary reasoning.
 
-Absorptive-capacity research tells us that access to external knowledge and the ability to use it are different things.
-
-Knowledge-hiding research reminds us that organisational conditions influence what people make available.
-
-Knowledge-transfer research reminds us that relationships and context shape movement.
-
-Ambidexterity research shows why exploration and execution cannot be collapsed into one universal operating mode.
+Absorptive-capacity research tells us that access to external knowledge and the ability to use it are different things. Knowledge-hiding research reminds us that organisational conditions influence what people make available. Network research shows that relationships and network structure shape knowledge transfer. Ambidexterity research shows why exploration and execution cannot be collapsed into one universal operating mode.
 
 The book connects those insights to the argument developed across the previous chapters.
 
@@ -490,7 +378,7 @@ A good boundary protects depth, accountability and execution.
 
 A good organisation also knows when that boundary must become permeable.
 
-That is the organisational extension of epistemic mobility.
+It is the organisational condition that allows epistemic mobility and collective polymathy to matter beyond individual people and teams.
 
 A person learns to change lenses.
 
@@ -502,11 +390,7 @@ The advantage does not come from making everything connected.
 
 It comes from knowing what needs connecting.
 
-That may be one of the most important distinctions in the book.
-
-Modern organisations already have extraordinary connectivity.
-
-They have email, messaging platforms, cloud repositories, analytics systems, AI assistants, enterprise search, collaboration suites and global professional networks.
+Modern organisations already have extraordinary connectivity: email, messaging platforms, cloud repositories, analytics systems, AI assistants, enterprise search, collaboration suites and global professional networks.
 
 Yet technology cannot answer the organisational question by itself.
 
@@ -532,19 +416,13 @@ It is one in which knowledge can move intelligently.
 
 The distinction matters because friction is not always failure.
 
-Some friction protects quality.
-
-Some slows premature decisions.
-
-Some preserves confidentiality.
-
-Some forces a proposal to encounter specialist challenge before it becomes action.
+Some friction protects quality. Some slows premature decisions. Some preserves confidentiality. Some forces a proposal to encounter specialist challenge before it becomes action.
 
 The goal is therefore not frictionlessness.
 
 It is useful permeability.
 
-That returns us, finally, to the central tension.
+That returns us to the central tension.
 
 Specialisation made modern complexity manageable by dividing knowledge into domains.
 
@@ -571,6 +449,8 @@ What kind of person becomes most valuable inside such a system?
 Fourné, S.P.L., Rosenbusch, N., Heyden, M.L.M. & Jansen, J.J.P. 2019, 'Structural and contextual approaches to ambidexterity: A meta-analysis of organizational and environmental contingencies', *European Management Journal*, vol. 37, no. 5, pp. 564-576, doi:10.1016/j.emj.2019.04.002.
 
 Junni, P., Sarala, R.M., Taras, V. & Tarba, S.Y. 2013, 'Organizational Ambidexterity and Performance: A Meta-Analysis', *Academy of Management Perspectives*, vol. 27, no. 4, pp. 299-312, doi:10.5465/amp.2012.0015.
+
+Reagans, R. & McEvily, B. 2003, 'Network Structure and Knowledge Transfer: The Effects of Cohesion and Range', *Administrative Science Quarterly*, vol. 48, no. 2, pp. 240-267, doi:10.2307/3556658.
 
 Shen, Y., Lythreatis, S., Singh, S.K. & Cooke, F.L. 2025, 'A meta-analysis of knowledge hiding behavior in organizations: Antecedents, consequences, and boundary conditions', *Journal of Business Research*, vol. 186, article 114963, doi:10.1016/j.jbusres.2024.114963.
 
