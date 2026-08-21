@@ -40,6 +40,7 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Chapter 6: Where the Analogy Breaks - developmentally locked after Wombat review, targeted concept-hardening revision and final claim-to-source verification; 3,775 body words excluding references under the manuscript word-count rule.
 - Chapter 7: What Can Actually Be Developed? - developmentally locked after Wombat review, targeted developmental revision and final claim-to-source verification; 3,529 body words excluding references under the manuscript word-count rule.
 - Chapter 8: Building a Polymathic Practice - developmentally locked after Wombat review, targeted de-frameworking revision and final claim-to-source verification; 3,578 body words excluding references under the manuscript word-count rule. Visual opportunity confirmed: YES, recursive problem-centred practice diagram, clearly labelled as author synthesis.
+- Chapter 9: Borrowed Breadth - developmentally locked after Wombat review, targeted AI-hype and source-boundary revision, exact recount and final claim-to-source verification; 3,567 body words excluding references under the manuscript word-count rule. Visual opportunity confirmed: YES, AI-expanded reach versus human-led verification, judgement and accountability, clearly labelled as author synthesis.
 
 ## Chapter 2 verified evidence anchors
 - Araki, M. 2025, Polymathy: The Foundational Source of Creativity and Innovation, University of Louisville doctoral dissertation, doi:10.18297/etd/4642.
@@ -97,13 +98,18 @@ As knowledge expands, specialisation becomes increasingly necessary. Greater spe
 - Melby-Lervåg, M., Redick, T.S. & Hulme, C. 2016, 'Working memory training does not improve performance on measures of intelligence or other measures of far transfer: Evidence from a meta-analytic review', Perspectives on Psychological Science, vol. 11, no. 4, pp. 512-534, doi:10.1177/1745691616635612.
 - Tett, R.P., Toich, M.J. & Ozkum, S.B. 2021, 'Trait activation theory: A review of the literature and applications to five lines of personality dynamics research', Annual Review of Organizational Psychology and Organizational Behavior, vol. 8, pp. 199-233, doi:10.1146/annurev-orgpsych-012420-062228.
 
+## Chapter 9 verified evidence anchors
+- Autio, C., Schwartz, R., Dunietz, J., Jain, S., Stanley, M., Tabassi, E., Hall, P. & Roberts, K. 2024, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile, NIST AI 600-1, National Institute of Standards and Technology, doi:10.6028/NIST.AI.600-1.
+- Brynjolfsson, E., Li, D. & Raymond, L.R. 2025, 'Generative AI at Work', The Quarterly Journal of Economics, vol. 140, no. 2, pp. 889-942, doi:10.1093/qje/qjae044.
+- Dell'Acqua, F., McFowland III, E., Mollick, E.R., Lifshitz-Assaf, H., Kellogg, K.C., Rajendran, S., Krayer, L., Candelon, F. & Lakhani, K.R. 2026, 'Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality', Organization Science, vol. 37, no. 2, pp. 403-423, doi:10.1287/orsc.2025.21838.
+- Klingbeil, A., Grützner, C. & Schreck, P. 2024, 'Trust and reliance on AI — An experimental study on the extent and costs of overreliance on AI', Computers in Human Behavior, vol. 160, article 108352, doi:10.1016/j.chb.2024.108352.
+- Pearson, J., Dror, I.E., Jayes, E., Whordley, G.-R., Mason, G. et al. 2026, 'Examining human reliance on artificial intelligence in decision making', Scientific Reports, vol. 16, article 5345, doi:10.1038/s41598-026-34983-y.
+- Tabassi, E. 2023, Artificial Intelligence Risk Management Framework (AI RMF 1.0), NIST AI 100-1, National Institute of Standards and Technology, doi:10.6028/NIST.AI.100-1.
+
 ## Visual status
-- Chapter 8 visual opportunity: YES.
-- Preferred concept: a real problem at the centre with recurring movements around it: anchor in depth, explore across boundaries, compare and integrate, make/use something, test boundaries, consolidate, then return to the problem.
-- The visual must show recurrence and feedback rather than a numbered or rigid cycle.
-- Label as author synthesis based on Chapters 3-8.
-- Include the idea that the problem is allowed to answer back.
-- Design only after the relevant visual production pass begins.
+- Chapter 8 visual opportunity: YES. Recursive problem-centred practice diagram, author synthesis.
+- Chapter 9 visual opportunity: YES. Show AI expanding access, retrieval, translation, comparison and provisional synthesis while verification, competence boundaries, judgement and accountability remain human/institutional responsibilities. Show interaction rather than a simplistic AI-versus-human split. Author synthesis.
+- Design visuals only after the relevant visual production pass begins.
 
 ## Current next gate
-Begin Chapter 9: Borrowed Breadth. Establish the Final Brief and evidence architecture for the Age of AI argument: AI can dramatically widen access to unfamiliar knowledge, but access must not be confused with understanding, competence, verification, judgement or accountability.
+Begin Chapter 10: Collective Polymathy. Establish the Final Brief and evidence architecture for how distributed specialist depth becomes coherent through transactive awareness, translation, boundary spanning, challenge and integrative judgement.
