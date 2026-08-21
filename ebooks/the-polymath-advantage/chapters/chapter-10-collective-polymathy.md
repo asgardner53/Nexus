@@ -4,7 +4,7 @@
 
 A difficult problem arrives in an organisation.
 
-It touches technology, regulation, customer behaviour, finance, operations and risk. No single person understands all of it deeply enough to carry the decision alone.
+It touches technology, regulation, customer behaviour, finance, operations and risk. No single person is likely to understand every consequential part of it deeply enough to carry the decision alone.
 
 So the obvious answer is to assemble experts.
 
@@ -60,11 +60,13 @@ Presence is not integration.
 
 Diversity of expertise creates potential. It does not create coherence by itself.
 
-Research on team diversity supports this caution. van Knippenberg's review of team diversity research describes both synergistic and disruptive pathways: differences can improve performance when they generate exchange and integration of relevant perspectives, but they can also activate social categorisation and coordination problems (van Knippenberg, 2024).
+Research on team diversity supports this caution. van Knippenberg's review describes both synergistic and disruptive pathways: differences can improve performance when they generate exchange and integration of relevant perspectives, but they can also activate social categorisation and coordination problems (van Knippenberg, 2024). The present argument is primarily about diversity of relevant knowledge, expertise and professional perspective; the broader diversity literature is useful here because it shows why difference itself does not guarantee value.
 
 The implication for this book is simple:
 
 **Diversity supplies difference. Collective polymathy requires integration.**
+
+Collective polymathy is also not another name for collective intelligence. Collective intelligence is a broader research construct concerned with group-level capability across tasks. I use collective polymathy more narrowly to describe the mobilisation and integration of differentiated specialist depth across knowledge boundaries. That distinction is author synthesis.
 
 ### Know Who Knows What
 
@@ -114,7 +116,9 @@ In hidden-profile tasks, different members hold different pieces of information.
 
 Lu, Yuan and McLeod's meta-analysis of 65 hidden-profile studies found that groups mentioned substantially more common information than unique information. Groups operating with hidden profiles were eight times less likely to identify the correct solution than groups in which all relevant information was already shared. Importantly, greater pooling of unique information was associated with better decision quality (Lu, Yuan & McLeod, 2012).
 
-That finding is almost tailor-made for collective polymathy.
+Hidden-profile experiments are stylised decision tasks, not replicas of every organisational meeting. Their value here is to demonstrate how easily a group can possess useful distributed information without successfully pooling it.
+
+That finding matters for collective polymathy.
 
 A team can contain exactly the expertise it needs and still fail because the information that distinguishes one specialist from another never becomes part of the collective reasoning.
 
@@ -126,17 +130,13 @@ The issue is not simply whether everyone is invited to speak.
 
 A meeting can contain equal airtime and still privilege common information.
 
-Common information is easy to recognise. It creates quick agreement. It reassures the group that everyone is looking at the same problem.
-
-Unique information does the opposite. It may slow the conversation. It may introduce a variable that no one else understands. It may force the group to revisit a conclusion that had already begun to feel settled.
+Common information is easy to recognise. It creates quick agreement. Unique information may slow the conversation, introduce a variable that no one else understands or force the group to revisit a conclusion that had begun to feel settled.
 
 That friction can be exactly where the value is.
 
-In Priya's team, suppose everyone agrees that the model improves processing speed and reduces manual workload. That information is widely understood.
+Priya's team learns this badly before it learns it well. An early discussion closes around the apparent operational and financial benefits of the system. Elena mentions a concern about how one data feature is derived, but the others hear it as a narrow compliance detail and move on. Only later, when the issue affects a design decision, does the team realise that the original comment changed the shape of the problem rather than merely adding another risk item.
 
-Elena then raises a narrow regulatory issue connected to how one feature is derived. Marcus knows the feature is technically predictive. Jordan knows removing it may reduce customer friction for one group but increase it for another. No one holds the full implication.
-
-The team's capability appears only if those different pieces are brought into the same problem.
+The failure is small enough to recover from, but instructive. Elena had spoken. The knowledge had technically entered the meeting. It had not yet entered the reasoning.
 
 ### Dissent Can Be Useful Without Becoming Conflict
 
@@ -154,19 +154,13 @@ The useful conclusion is not that conflict is good.
 
 It is that disagreement can alter the information process.
 
-A dissenting view forces the group to inspect reasons that consensus might otherwise leave untouched.
+The evidence concerns prediscussion dissent in a specific hidden-profile task. It does not justify manufacturing disagreement as a general team technique. The lesson is narrower: do not design discussion so that early agreement suppresses information that has not yet been examined.
 
 For collective polymathy, that matters because specialist differences should sometimes produce disagreement. If five disciplines examine a complex problem and always arrive at the same interpretation immediately, the group may not be integrating perspectives at all. It may simply be allowing one frame to dominate.
 
 Useful dissent creates epistemic resistance.
 
-It asks:
-
-What does your discipline see that mine does not?
-
-What assumption in my recommendation does your evidence challenge?
-
-Which constraint becomes visible only from your side of the problem?
+It asks what one discipline sees that another does not, what assumption a different evidence base challenges and which constraint becomes visible only from another side of the problem.
 
 That is different from personality conflict, status contest or reflexive contrarianism.
 
@@ -196,7 +190,7 @@ It does not determine which expert should carry more authority on a particular q
 
 **Safety can make it easier to speak. It does not decide whether what is spoken is useful.**
 
-For Priya's team, a safe environment may make it easier for Marcus to admit that model performance is less stable in one customer segment than the headline metric suggests. It may make it easier for Elena to say that she does not yet know how a regulator would interpret an edge case. It may allow Jordan to challenge a technically elegant design without being dismissed as non-technical.
+For Priya's team, a safe environment may make it easier for Marcus to admit that model performance is less stable in one customer segment than the headline metric suggests, or for Elena to say that she does not yet know how a regulator would interpret an edge case.
 
 Those acts improve the information available to the team.
 
@@ -232,19 +226,11 @@ So can a process map, risk model, customer journey, architecture diagram or scen
 
 The value is that different specialists can work around the same object without needing identical mental models.
 
-Priya may see a process map as workflow.
-
-Marcus may see the data dependencies.
-
-Elena may see points at which personal information changes hands.
-
-Jordan may see where the customer experiences delay or opacity.
+Priya may see a process map as workflow. Marcus may see the data dependencies. Elena may see points at which personal information changes hands. Jordan may see where the customer experiences delay or opacity.
 
 The shared object does not make them think alike.
 
 It gives their differences somewhere to meet.
-
-This leads to an important distinction:
 
 **Integration is not flattening.**
 
@@ -264,13 +250,7 @@ Faraj and Yan's study of 64 software-development teams examined boundary work in
 
 The important implication for this book is that teams do not operate as sealed intellectual units.
 
-They search outward.
-
-They represent themselves to other groups.
-
-They coordinate across organisational lines.
-
-They pull in expertise that is missing.
+They search outward, coordinate across organisational lines and pull in expertise that is missing.
 
 This is the collective equivalent of Chapter 6's competence boundary.
 
@@ -300,33 +280,13 @@ But if the theory of collective polymathy depends on one unusually broad person 
 
 Integration can be distributed.
 
-It can live partly in a person, partly in relationships, partly in routines and partly in shared artefacts.
+It can live partly in people, partly in relationships, partly in routines and partly in shared artefacts.
 
-Priya may be particularly good at holding the whole problem.
+Priya may be particularly good at holding the whole problem. Marcus may translate technical uncertainty well. Elena may know when an apparently small choice crosses into a different regulatory category. Jordan may be especially good at noticing when the team has begun talking about customers without representing their actual behaviour.
 
-Marcus may translate technical uncertainty well.
+The integration is produced by the pattern among them rather than by one person becoming a universal translator.
 
-Elena may know when an apparently small choice crosses into a different regulatory category.
-
-Jordan may be especially good at noticing when the team has begun talking about customers without representing their actual behaviour.
-
-The integration is produced by the pattern among them.
-
-That pattern becomes stronger when the team has routines that make differentiated expertise easier to combine.
-
-The routine might be as simple as asking which domain is carrying the most uncertainty before a decision.
-
-It might involve deliberately surfacing information that only one member holds.
-
-It might involve recording where the team is aligned, where it is merely assuming alignment and where specialist validation is still outstanding.
-
-These are not rituals for their own sake.
-
-They are ways of keeping the knowledge system visible.
-
-Collective polymathy is therefore not a heroic trait transferred from the individual to the team.
-
-It is an organisational property of connection.
+Collective polymathy is therefore better understood here as a property of how expertise is connected than as a heroic trait held by one integrator.
 
 ### Expertise Still Has Unequal Weight
 
@@ -348,15 +308,13 @@ Collective polymathy does not remove expertise gradients.
 
 It makes them navigable.
 
-The point of shared breadth is not to erase specialist authority.
+The point of shared breadth is not to erase specialist authority. It is to understand enough of the problem to know when that authority should become decisive, when it should be challenged and when two legitimate forms of expertise are in tension.
 
-It is to understand enough of the problem to know when that authority should become decisive, when it should be challenged and when two legitimate forms of expertise are in tension.
+Greater domain authority changes the burden of challenge; it does not make specialist judgement infallible.
 
 This is where Chapter 6 returns at collective scale.
 
-Calibration is not only personal.
-
-Teams also need to calibrate the strength of a conclusion to the quality and distribution of the expertise behind it.
+The logic of calibration also applies at team level. The group should match the strength of a conclusion to the quality and distribution of the evidence and expertise behind it.
 
 A confident team can still be collectively under-informed.
 
@@ -384,15 +342,7 @@ Consider a decision map for Priya's team.
 
 The map shows the proposed system, the decision points, the customer journey, the information flows, the financial assumptions and the places where human intervention remains possible.
 
-Each specialist can annotate the same object differently.
-
-Marcus marks model uncertainty and data dependencies.
-
-Elena marks regulatory triggers and points where legal interpretation is still unresolved.
-
-Priya marks operational handoffs, exception queues and capacity constraints.
-
-Jordan marks moments where customers may experience confusion, opacity or loss of agency.
+Marcus marks model uncertainty and data dependencies. Elena marks regulatory triggers and unresolved legal interpretation. Priya marks operational handoffs, exception queues and capacity constraints. Jordan marks moments where customers may experience confusion, opacity or loss of agency.
 
 No single annotation is the map.
 
@@ -400,21 +350,11 @@ The collective picture appears through their relationship.
 
 That matters because synthesis is often imagined as compression: take five expert accounts and reduce them to one executive summary.
 
-Compression is necessary for decisions, but premature compression can destroy information.
+Compression is necessary for decisions, but premature compression can erase the very differences the team needs. A technical warning can disappear because it sounds too specialised; an exception can vanish because it affects only a small group; a disagreement can be rewritten as a neutral bullet point even when two disciplines are making incompatible assumptions.
 
-A warning may disappear because it sounds too technical.
+Collective polymathy therefore requires the team to know when to compress and when to preserve difference.
 
-An exception may be removed because it applies to only a small group.
-
-A disagreement may be rewritten as a neutral bullet point, hiding the fact that two disciplines are making incompatible assumptions.
-
-Collective polymathy requires the team to know when to compress and when to preserve difference.
-
-The decision eventually has to become coherent enough to act on.
-
-But coherence should be achieved after the differences have done their work, not before.
-
-This gives us another useful distinction.
+The decision eventually has to become coherent enough to act on. But coherence should be achieved after the differences have done their work, not before.
 
 A team needs a shared problem more than it needs a shared worldview.
 
@@ -434,19 +374,7 @@ What changes is not the quantity of expertise.
 
 It is the coherence among it.
 
-They know more clearly who carries which depth.
-
-They have surfaced information that was not common to the group.
-
-They have allowed disagreement to expose assumptions.
-
-They have translated enough language to understand where claims connect and where they do not.
-
-They have used shared artefacts to make relationships visible.
-
-They have reached beyond the team when an expertise gap appeared.
-
-They have preserved specialist authority where consequence requires it.
+They know more clearly who carries which depth. They have surfaced information that was not common to the group. They have allowed disagreement to expose assumptions. They have translated enough language to understand where claims connect and where they do not. They have used shared artefacts to make relationships visible, reached beyond the team when an expertise gap appeared and preserved specialist authority where consequence requires it.
 
 And they have integrated those differences into a decision no member could have produced alone.
 
@@ -460,13 +388,11 @@ Not diversity as decoration.
 
 Not permanent consensus.
 
-**Collective polymathy is the capacity of a group to make differentiated depth usable together.**
+**Collective polymathy is the capacity of a group to make differentiated specialist depth usable together around a shared problem.**
 
 That definition is author synthesis.
 
 Its evidence base comes from several established research traditions rather than one validated construct carrying the same name.
-
-That boundary matters.
 
 The research gives us transactive memory, information sharing, hidden profiles, dissent, psychological safety, boundary work and knowledge integration.
 
@@ -480,15 +406,7 @@ At the beginning of the book, the apparent question was whether one person could
 
 By now, that question has become too small.
 
-Individual range still matters.
-
-Epistemic mobility still matters.
-
-The ability to recognise structure across domains still matters.
-
-Calibration still matters.
-
-AI-assisted borrowed breadth matters.
+Individual range still matters. Epistemic mobility still matters. Structural transfer, calibration and AI-assisted borrowed breadth still matter.
 
 But modern complex work increasingly depends on something else: the ability to participate in systems where no person owns all the depth.
 
@@ -496,15 +414,7 @@ A person with polymathic capability becomes valuable not because they replace th
 
 They become valuable because they can help specialists remain specialists while making their knowledge more combinable.
 
-They can recognise when a question belongs somewhere else.
-
-They can hear when two disciplines are using the same word differently.
-
-They can notice when common information is crowding out unique knowledge.
-
-They can help a team stay open long enough for disagreement to reveal structure.
-
-And they can recognise when the group itself has reached a competence boundary.
+They can recognise when a question belongs somewhere else. They can hear when two disciplines are using the same word differently. They can notice when common information is crowding out unique knowledge. They can help a team stay open long enough for disagreement to reveal structure. And they can recognise when the group itself has reached a competence boundary.
 
 This may be the deeper organisational expression of the polymathic advantage.
 
