@@ -76,6 +76,12 @@ That literature addresses how expertise adapts over time. The concern here is br
 
 The term is useful because it keeps expertise in the sentence.
 
+There is an important difference between adaptation and improvisation. Adaptive expertise does not mean abandoning what has been learned whenever a situation looks unfamiliar. Often the most expert response is to preserve the established method and identify precisely which part of the situation has changed. The value lies in being able to tell the difference between a case that requires a new approach and one that merely feels novel.
+
+That distinction matters because unfamiliarity can be seductive. New conditions encourage people to reach for new frameworks, new technology or a borrowed idea from another field. Sometimes that is exactly what the problem needs. Sometimes the existing discipline already contains the answer, but the professional has not yet recognised the case. Responsible movement therefore begins by asking whether a boundary genuinely needs to be crossed at all.
+
+The adaptable professional is not permanently dissatisfied with routine. They know that routines often contain accumulated knowledge that is easy to underestimate because it has become ordinary. Their advantage is not constant reinvention. It is the capacity to preserve what still works while changing what no longer does.
+
 The challenge is not to escape expertise.
 
 It is to keep expertise useful when the environment asks something new of it.
@@ -226,6 +232,12 @@ They help the team use what it already knows.
 
 They can recognise a missing domain, translate a question into terms another specialist can act on, preserve a disagreement long enough to understand what it reveals and help integrate without forcing everyone into the same frame.
 
+This also means that a deeply specialised person can contribute to cross-boundary work without becoming broadly expert. They may never learn the neighbouring domain in depth. What matters is that they can make their own knowledge legible enough for others to use, recognise the point at which another discipline changes the interpretation, and resist the temptation to treat unfamiliar expertise as merely an input to be translated into their own terms.
+
+That is a demanding form of professional generosity. It requires the specialist to explain enough without pretending the simplification is the whole discipline. It requires the broader colleague to listen without assuming that comprehension creates equivalence. The connection works because both sides preserve the difference between orientation and competence.
+
+This is one reason the book has repeatedly returned to boundaries. A boundary is not merely an obstacle to collaboration. It can mark where methods, standards and responsibilities change. The person who moves well does not erase that marker. They become better at seeing what the marker means.
+
 **In a distributed knowledge system, knowing who should know can be as important as knowing.**
 
 That does not excuse ignorance.
@@ -327,6 +339,12 @@ The aim is not to become permanently mobile.
 It is to be capable of movement when movement becomes necessary.
 
 Problems provide the discipline. They reveal whether the imported idea works, expose missing variables and force the professional to distinguish what is interesting from what is useful.
+
+Problem-centred practice also prevents breadth from becoming a collection hobby. The test is not how many fields a person can name or how many frameworks they have encountered. The test is whether another body of knowledge changes how they understand or act on a real problem.
+
+Sometimes that change will be large. A new lens may overturn the original framing. More often it will be modest: a better question, a missing variable, a clearer handoff, a more cautious claim or a decision to seek specialist review. Those small changes matter because they show that breadth has entered the work rather than remaining intellectual decoration.
+
+Over time, the practice can also make a person's limits more visible. Repeated exposure to adjacent domains teaches not only what connects but what remains stubbornly specific. That is useful learning. The aim is not to eliminate the boundary between domains. It is to become more accurate about where the boundary lies and more capable of crossing it when the problem genuinely requires it.
 
 Without that resistance, breadth can remain decorative.
 
