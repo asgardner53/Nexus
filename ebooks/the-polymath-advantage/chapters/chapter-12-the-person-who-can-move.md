@@ -22,13 +22,13 @@ The question is what kind of person becomes especially useful when depth remains
 
 The answer is not the universal genius we rejected in Chapter 2. It is not someone who has collected enough disciplines to become self-sufficient. It is not the person who can speak most confidently about the largest number of subjects.
 
-It is the person who can contribute from genuine depth and still move when the problem requires movement.
+It is someone who can contribute from genuine depth and still move when the problem requires movement.
 
 That movement includes learning, reframing, translating and connecting. It also includes stopping, checking, deferring and handing a question to someone who knows more.
 
 That second half matters as much as the first.
 
-**The future does not require less expertise. It requires expertise that can remain useful when the problem crosses its original boundary.**
+**The answer is not less expertise. It is expertise that can remain useful when the problem crosses its original boundary.**
 
 ### Expertise That Can Travel
 
@@ -48,7 +48,7 @@ That qualification matters.
 
 Adaptive expertise should not become another flattering label applied to people we admire.
 
-Routine expertise is not second-rate expertise. When a task is stable and the consequences of variation are high, reliable established practice may be exactly what the situation needs. A surgeon does not demonstrate adaptability by improvising for the pleasure of novelty. A payroll specialist does not improve the system by treating every pay cycle as an experiment. A pilot does not prove intellectual range by discarding a procedure that exists because people died before it was written.
+Routine expertise is not second-rate expertise. When a task is stable and the consequences of variation are high, reliable established practice may be exactly what the situation needs. A payroll specialist does not improve the system by treating every pay cycle as an experiment. A pilot does not prove intellectual range by discarding a procedure simply because novelty is attractive.
 
 Adaptability matters when the situation genuinely changes what the existing routine can accomplish.
 
@@ -71,6 +71,8 @@ Which parts of the problem now belong to another discipline?
 Where does prior expertise help, and where does it become a source of inertia?
 
 A related idea appears in the recent literature on what Frie and colleagues call *flexpertise*. Their integrative review examines how workers respond to new expertise needs over the course of their careers, both within and across the boundaries of existing expertise domains and work contexts. Importantly, the model they develop treats adaptation as a dynamic process involving individual learning and social interaction, not a simple progression from specialist to generalist (Frie et al., 2024).
+
+That literature addresses how expertise adapts over time. The concern here is broader only in scope, not superior in status, because it also asks how a professional works with knowledge they do not and should not personally absorb.
 
 The term is useful because it keeps expertise in the sentence.
 
@@ -102,15 +104,7 @@ The point was never to reward movement for its own sake.
 
 The return point is not necessarily one job title or one academic discipline. It is the accumulated depth from which the professional can test what they are seeing.
 
-It includes evidence standards.
-
-It includes technical methods.
-
-It includes professional obligations.
-
-It includes experience with failure.
-
-It includes the ability to recognise what a convincing answer actually looks like in a domain where the person has earned competence.
+It includes evidence standards, technical methods, professional obligations and experience with failure. It includes the ability to recognise what a convincing answer actually looks like in a domain where the person has earned competence.
 
 A useful metaphor is not the traveller who keeps moving.
 
@@ -118,13 +112,13 @@ It is the person who can leave home and still knows where home is.
 
 That distinction matters because some work should remain inside the boundary of established competence. The capacity to explore another field does not create the right to practise it. Understanding the language of a discipline is not the same as meeting its standards of judgement.
 
-The person who can move therefore has two capabilities that can look contradictory from the outside.
+Responsible movement can therefore require two things that look contradictory from the outside.
 
-They can loosen their frame.
+Loosen the frame.
 
-And they can tighten their standard.
+Tighten the standard.
 
-They become more open about what might explain the problem while becoming more careful about what they are entitled to conclude.
+Become more open about what might explain the problem while becoming more careful about what you are entitled to conclude.
 
 That combination is more difficult than either curiosity or certainty.
 
@@ -144,13 +138,9 @@ It may not be.
 
 Research on metacognition gives us a useful reason for caution. Fleming's review of metacognition and confidence shows that confidence is itself an inference about our own performance. It can be informative, but it can also diverge from actual task performance (Fleming, 2024).
 
-Experience does not eliminate that problem.
+Neither experience nor intelligence guarantees accurate confidence. Enthusiasm certainly does not.
 
-Neither does intelligence.
-
-Neither does enthusiasm.
-
-The person who moves across knowledge boundaries therefore needs something less glamorous than curiosity.
+Cross-boundary work therefore needs something less glamorous than curiosity.
 
 Calibration.
 
@@ -196,8 +186,6 @@ Sometimes they do.
 
 Sometimes the person is merely speaking from borrowed confidence.
 
-Polymathic judgement includes resisting that invitation.
-
 There is discipline in saying, “I can help frame this, but I should not be the final authority.”
 
 There is discipline in recognising that the most useful contribution may be a question rather than an answer.
@@ -212,25 +200,9 @@ That move changes the meaning of professional value.
 
 If expertise is distributed, then no serious account of the capable professional can be purely individual.
 
-The person who can move matters partly because they can operate in a knowledge system populated by people who know things they do not.
+A useful professional in such a system can contribute their own depth clearly, recognise when another domain changes the problem, translate enough for collaboration without pretending equivalence, and accept specialist constraints when the evidence demands it.
 
-That requires a different form of confidence.
-
-They need enough confidence to contribute their own depth clearly.
-
-Enough openness to recognise when another domain changes the problem.
-
-Enough language to translate without pretending that translation makes them equivalent to the specialist.
-
-Enough judgement to know when a specialist constraint should outweigh their preference.
-
-Enough social awareness to notice whose knowledge has not yet entered the reasoning.
-
-And enough humility to make another person's expertise more influential when the evidence demands it.
-
-Those are not six traits in a new model.
-
-They are descriptions of what responsible cross-boundary work sometimes requires.
+They also need to notice whose knowledge has not yet entered the reasoning and when making space for another expert is the most intelligent move available.
 
 The distinction matters because modern organisations often celebrate the person who can “join the dots”.
 
@@ -252,15 +224,7 @@ Inside such a system, the valuable individual does not have to become a miniatur
 
 They help the team use what it already knows.
 
-They can recognise a missing domain.
-
-They can translate a question into terms another specialist can act on.
-
-They can preserve a disagreement long enough to understand what it reveals.
-
-They can help integrate without forcing everyone into the same frame.
-
-And they can accept that sometimes the most intelligent move is to make space for someone else.
+They can recognise a missing domain, translate a question into terms another specialist can act on, preserve a disagreement long enough to understand what it reveals and help integrate without forcing everyone into the same frame.
 
 **In a distributed knowledge system, knowing who should know can be as important as knowing.**
 
@@ -286,27 +250,17 @@ Chapter 9 called one effect *Borrowed Breadth*: access to concepts, language and
 
 That capability can be extraordinarily useful.
 
-It can shorten orientation.
-
-It can expose a practitioner to adjacent concepts.
-
-It can translate unfamiliar vocabulary.
-
-It can generate candidate connections and questions.
-
-It can make it easier to prepare for a conversation with a specialist rather than entering the conversation completely cold.
+It can shorten orientation, expose a practitioner to adjacent concepts, translate unfamiliar vocabulary, generate candidate connections and help prepare for a conversation with a specialist.
 
 But it also changes the signalling value of breadth.
 
-A polished cross-disciplinary explanation used to require substantial retrieval, reading and synthesis.
-
-Now some of that surface performance can be produced in minutes.
+Generative AI can now produce some of that surface performance in minutes.
 
 The appearance of range therefore tells us less than it once did.
 
 That is not an argument that human breadth has become worthless.
 
-It means we should look elsewhere for the harder-to-fake signals.
+It means we should look elsewhere for the more meaningful tests.
 
 Can the person tell which source matters?
 
@@ -326,19 +280,11 @@ Those questions return us to the same scarce capability identified in Chapter 9.
 
 Judgement.
 
-**When breadth becomes easier to imitate, judgement becomes harder to fake.**
-
-Even that line needs a qualification.
+**When breadth becomes easier to imitate, judgement becomes more important to test.**
 
 Judgement is not magically human.
 
-People make poor judgements every day.
-
-Experts can become overconfident.
-
-Organisations can ignore evidence.
-
-AI can contribute meaningfully to analysis.
+People make poor judgements every day. Experts can become overconfident. Organisations can ignore evidence. AI can contribute meaningfully to analysis.
 
 The point is not human superiority.
 
@@ -364,25 +310,11 @@ A more useful question is practical:
 
 When my work crosses a knowledge boundary, am I becoming better at moving responsibly?
 
-Chapter 7 argued that at least some of the capabilities involved can be developed. Chapter 8 then located that development in practice rather than self-description: working on real problems, exploring adjacent knowledge, comparing structures, producing something, testing boundaries and allowing reality to correct the interpretation.
-
-That remains the most defensible developmental proposition.
+Chapter 7 argued that at least some of the capabilities involved can be developed. Chapter 8 located that development in problem-centred practice: working on something real, exploring adjacent knowledge, testing connections and allowing reality to correct the interpretation.
 
 **Polymathic capability is better treated as a practice than an identity.**
 
-The practice will look different for different people.
-
-A deeply technical professional may need to become better at recognising behavioural or commercial consequences.
-
-A leader with broad organisational exposure may need to deepen one area enough to stop living entirely through other people's summaries.
-
-A researcher may need more practice translating a model into another professional language without losing its assumptions.
-
-A consultant may need to become better at saying where an analogy breaks.
-
-A highly curious person may need consolidation more than additional exposure.
-
-A cautious specialist may need more permission to explore.
+The practice will look different for different people. A deeply technical professional may need broader commercial or behavioural orientation. A leader with broad exposure may need to deepen one area. A researcher may need better translation. A highly curious person may need consolidation more than additional exposure.
 
 There is no single correct breadth.
 
@@ -394,19 +326,7 @@ The aim is not to become permanently mobile.
 
 It is to be capable of movement when movement becomes necessary.
 
-That is why the practice should remain problem-centred.
-
-Problems create resistance.
-
-They reveal whether the imported idea works.
-
-They expose missing variables.
-
-They force the professional to distinguish what is interesting from what is useful.
-
-They bring other people into the reasoning.
-
-And they create consequences that make calibration matter.
+Problems provide the discipline. They reveal whether the imported idea works, expose missing variables and force the professional to distinguish what is interesting from what is useful.
 
 Without that resistance, breadth can remain decorative.
 
@@ -418,93 +338,23 @@ We can now return to the title.
 
 What, after twelve chapters, is the polymathic advantage?
 
-It is not being the person who knows the most.
+It is not being the person who knows the most. No individual can outrun the expansion of specialised knowledge, and AI makes information abundance an even less useful basis for intellectual status.
 
-That contest was lost before it began.
+It is not knowing a little about everything. Shallow range can increase confidence without increasing competence.
 
-No individual can outrun the expansion of specialised knowledge, and AI makes information abundance an even less useful basis for intellectual status.
+It is not escaping specialisation. Depth remains one of the principal sources of professional value.
 
-It is not knowing a little about everything.
+And it is not using AI to extend the appearance of expertise. Borrowed breadth remains borrowed until it has been verified, integrated and, where necessary, deepened.
 
-Shallow range can increase confidence without increasing competence.
-
-It is not escaping specialisation.
-
-Depth remains one of the principal sources of professional value.
-
-It is not endlessly changing fields.
-
-Movement without consolidation becomes drift.
-
-It is not clever analogy.
-
-Connections are useful only when the structure survives examination.
-
-It is not using AI to extend the appearance of expertise.
-
-Borrowed breadth remains borrowed until it has been verified, integrated and, where necessary, deepened.
-
-It is not being the integrator who quietly becomes indispensable to everyone.
-
-Teams and organisations should not depend on one person to carry all the connective tissue.
-
-And it is not humility in place of judgement.
-
-Knowing that you could be wrong does not relieve you of the responsibility to decide when a decision is yours to make.
+Movement without consolidation becomes drift. Clever analogy is only useful when the structure survives examination. Organisations should not depend on one person to carry all the connective tissue. Humility does not replace judgement.
 
 The advantage is more modest than the Renaissance fantasy and more demanding than the modern generalist slogan.
 
 It is the capacity to remain useful when the problem no longer fits neatly inside one knowledge boundary.
 
-That capacity begins with depth.
+Depth gives a person something real to contribute. Range helps them recognise what else may matter. Mobility lets them reframe the problem. Judgement tests the connection and calibrates confidence. All of this happens in relation to other people and under responsibility for what becomes action.
 
-Depth gives the person something real to contribute.
-
-Then comes range: enough exposure to recognise that another body of knowledge may matter.
-
-Then mobility: the ability to change the representation of the problem rather than forcing every problem through the same frame.
-
-Then judgement: the ability to test the connection, calibrate confidence and recognise the competence boundary.
-
-Then relation: the ability to work with people whose expertise is deeper elsewhere.
-
-And around all of that sits responsibility: the refusal to confuse access with authority or synthesis with truth.
-
-These are not stages.
-
-They are not a maturity model.
-
-They are the elements that the preceding chapters have shown repeatedly from different directions.
-
-The person who can move is therefore not a new species of professional.
-
-They may be an engineer.
-
-A nurse.
-
-A lawyer.
-
-A teacher.
-
-A scientist.
-
-A technician.
-
-A manager.
-
-A designer.
-
-A tradesperson.
-
-A strategist.
-
-They may spend most of their career inside one domain and still display the capability when a problem crosses its boundary.
-
-They may move between domains over time.
-
-They may become an unusually broad expert.
-
-They may remain deeply specialised and simply become better at recognising, translating and connecting what sits beyond their own expertise.
+This does not describe a new species of professional. Someone may spend most of a career inside one domain and display the capability only when a problem crosses its boundary. Another person may move between domains over time, become unusually broad, or remain deeply specialised while becoming better at recognising, translating and connecting what sits beyond their own expertise.
 
 The title does not require one career shape.
 
@@ -514,13 +364,7 @@ Knowledge is not a possession that proves how capable we are.
 
 It is something we enter, test, use and share under conditions of uncertainty.
 
-Expertise deserves respect because depth is hard won.
-
-Boundaries deserve respect because some distinctions protect quality, safety and accountability.
-
-Other disciplines deserve respect because our own view is incomplete.
-
-And uncertainty deserves respect because confidence does not make a claim true.
+Expertise deserves respect because depth is hard won. Boundaries deserve respect because some distinctions protect quality, safety and accountability. Other disciplines deserve respect because our own view is incomplete. Uncertainty deserves respect because confidence does not make a claim true.
 
 This is why the final answer cannot be “become broader”.
 
@@ -532,31 +376,19 @@ The more complete answer is this:
 
 That formulation keeps the individual in view, but the book has taken us further than the individual.
 
-We have seen that important knowledge may sit in another person, another team, another profession, an external network or an AI-assisted search. We have seen that a team can be collectively broader than any member. We have seen that an organisation can preserve deep boundaries while opening pathways where a problem requires knowledge to move.
+Important knowledge may sit in another person, another team, another profession, an external network or an AI-assisted search. A team can be collectively broader than any member. An organisation can preserve deep boundaries while opening pathways where a problem requires knowledge to move.
 
-So perhaps the final formulation needs to be wider.
+So the final formulation needs to be wider.
 
 The polymathic advantage is not the triumph of the person who knows across everything.
 
 It is the ability to remain responsible in a world where knowledge is larger than any one person.
 
-That means going deep enough to contribute.
-
-Moving far enough to recognise what else matters.
-
-Learning enough to ask better questions.
-
-Knowing enough to test a connection.
-
-Being humble enough to stop.
-
-Being confident enough to contribute.
-
-And being willing to let another person's depth change your conclusion.
+That means contributing from depth, recognising what else matters, testing connections and being willing to let another person's expertise change the conclusion.
 
 The world was built for specialists because specialisation works.
 
-The world now also needs people who can help specialisations meet.
+The world also needs people who can help specialisations meet.
 
 Not by dissolving their boundaries.
 
