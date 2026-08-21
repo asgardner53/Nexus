@@ -66,7 +66,7 @@ The implication for this book is simple:
 
 **Diversity supplies difference. Collective polymathy requires integration.**
 
-Collective polymathy is also not another name for collective intelligence. Collective intelligence is a broader research construct concerned with group-level capability across tasks. I use collective polymathy more narrowly to describe the mobilisation and integration of differentiated specialist depth across knowledge boundaries. That distinction is author synthesis.
+Collective polymathy is also not another name for collective intelligence. Collective intelligence is a broader research construct concerned with group-level capability across tasks (Woolley et al., 2010). I use collective polymathy more narrowly to describe the mobilisation and integration of differentiated specialist depth across knowledge boundaries. That distinction is author synthesis.
 
 ### Know Who Knows What
 
@@ -461,3 +461,5 @@ Mesmer-Magnus, J.R. & DeChurch, L.A. 2009, 'Information sharing and team perform
 Schulz-Hardt, S., Brodbeck, F.C., Mojzisch, A., Kerschreiter, R. & Frey, D. 2006, 'Group decision making in hidden profile situations: Dissent as a facilitator for decision quality', *Journal of Personality and Social Psychology*, vol. 91, no. 6, pp. 1080-1093, doi:10.1037/0022-3514.91.6.1080.
 
 van Knippenberg, D. 2024, 'Team diversity and team performance: Paths to synergetic and disruptive effects', *Current Opinion in Psychology*, vol. 59, article 101877, doi:10.1016/j.copsyc.2024.101877.
+
+Woolley, A.W., Chabris, C.F., Pentland, A., Hashmi, N. & Malone, T.W. 2010, 'Evidence for a collective intelligence factor in the performance of human groups', *Science*, vol. 330, no. 6004, pp. 686-688, doi:10.1126/science.1193147.
