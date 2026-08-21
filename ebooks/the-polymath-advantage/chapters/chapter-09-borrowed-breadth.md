@@ -24,13 +24,13 @@ This distinction sits at the centre of the AI age.
 
 **AI can widen intellectual reach faster than it can deepen human understanding.**
 
-That is not an argument against using AI across knowledge boundaries. Quite the opposite. Generative AI may become one of the most powerful tools ever created for exploratory breadth. It can help people enter unfamiliar domains, translate concepts, compare frameworks and generate hypotheses at extraordinary speed.
+That is not an argument against using AI across knowledge boundaries. Quite the opposite. Generative AI is a powerful tool for exploratory breadth. It can help people enter unfamiliar domains, translate concepts, compare frameworks and generate hypotheses quickly.
 
 The problem begins when access starts to feel like ownership.
 
 ### Breadth Has Become Cheap
 
-For most of history, unfamiliar knowledge came with friction.
+Until recently, entering an unfamiliar professional domain usually involved considerable friction.
 
 A professional wanting to understand another field had to find the right sources, learn enough terminology to search intelligently, discover which authors or institutions mattered, distinguish introductory material from serious material and often locate another person who could translate the field's assumptions.
 
@@ -42,19 +42,15 @@ Difficulty reminded the learner that they were entering somewhere unfamiliar.
 
 Generative AI changes that experience. A user can ask for an introduction to a domain in ordinary language. They can ask for competing interpretations. They can request an explanation at increasing levels of depth, generate search terms, compare concepts and ask the system to translate the material into the vocabulary of their own profession.
 
-The orientation cost has fallen dramatically.
+The orientation burden can feel dramatically lower.
 
-Field evidence already shows that this kind of assistance can improve performance in some settings. In a study of 5,172 customer-support agents, Erik Brynjolfsson, Danielle Li and Lindsey Raymond found that access to a generative AI assistant increased productivity by about 15 per cent on average. The effects were not uniform. Less experienced and lower-skilled workers gained more, while the most experienced workers gained less and showed small declines in some quality measures (Brynjolfsson, Li & Raymond, 2025).
+Field evidence shows that generative AI can materially improve performance in some settings. In a study of 5,172 customer-support agents, Erik Brynjolfsson, Danielle Li and Lindsey Raymond found that access to a generative AI assistant increased productivity by about 15 per cent on average. The effects were not uniform. Less experienced and lower-skilled workers gained more, while the most experienced workers gained less and showed small declines in some quality measures (Brynjolfsson, Li & Raymond, 2025).
 
 That is not proof that AI makes everyone broader, smarter or more expert.
 
-It is evidence that AI can materially change what people are able to do with access to encoded knowledge and guidance.
+It is evidence that AI can materially change what people are able to do with access to encoded knowledge and guidance in a specific work setting.
 
-For polymathic work, the implications are profound.
-
-A finance professional can explore behavioural science without first learning its entire vocabulary. A software engineer can ask how a regulatory concept is framed before speaking with legal counsel. A clinician can compare a systems-engineering concept with a patient-flow problem. A leader can ask for several disciplinary interpretations of the same organisational failure before settling on one frame.
-
-The intellectual cost of asking across disciplines has collapsed.
+For polymathic work, the implication is less about the customer-support task itself than about the new ease of reaching beyond one's home domain. A finance professional can explore behavioural science without first learning its entire vocabulary. A software engineer can ask how a regulatory concept is framed before speaking with legal counsel. A clinician can compare a systems-engineering concept with a patient-flow problem. A leader can ask for several disciplinary interpretations of the same organisational failure before settling on one frame.
 
 **The cost of asking across disciplines has collapsed. The cost of being right has not.**
 
@@ -74,7 +70,7 @@ AI does not abolish that pattern.
 
 It changes its scale, speed and texture.
 
-A book still feels like something outside you. A consultant's advice arrives visibly from another person. A journal article carries authorship, methods and a publication context. Even a search engine presents a collection of sources that remain recognisably external.
+A book often feels like something outside you. A consultant's advice arrives visibly from another person. A journal article carries authorship, methods and a publication context. A search engine presents a collection of sources that remain recognisably external.
 
 An AI conversation can feel different.
 
@@ -86,15 +82,17 @@ That seamlessness is useful.
 
 It is also epistemically dangerous.
 
-Borrowed breadth becomes most valuable when the user remembers that it is borrowed.
+The distinction is one of degree, not a categorical divide between transparent traditional sources and opaque AI. Books, consultants and articles can also obscure assumptions or provenance, while modern AI systems increasingly expose citations, links and retrieved evidence.
 
-There is a second difference worth noticing. Traditional borrowing often preserves the path back to the source. If a colleague gives advice, the user knows who said it. If a paper makes a claim, the methods and references are at least potentially inspectable. If a consultant offers a recommendation, the organisation can ask what evidence, assumptions and professional judgement produced it.
+The difference is how easily synthesis can arrive already blended into a fluent answer.
 
-Generative AI can obscure that path. A response may blend several ideas into one fluent explanation without showing which parts came from established evidence, which are common summaries, which are contested and which were generated through probabilistic inference. Modern systems can increasingly provide citations or search-linked evidence, but the presence of a citation does not remove the need to inspect whether the source actually supports the claim being made.
+Traditional borrowing often preserves at least part of the path back to the source. If a colleague gives advice, the user knows who said it. If a paper makes a claim, the methods and references are potentially inspectable. If a consultant offers a recommendation, the organisation can ask what evidence, assumptions and professional judgement produced it.
+
+Generative AI can obscure that path. A response may blend several ideas into one explanation without showing which parts came from established evidence, which are common summaries, which are contested and which were generated through probabilistic inference. The presence of citations or search-linked evidence does not remove the need to inspect whether a source actually supports the claim being made.
 
 This matters more as the user moves away from home territory. In a familiar field, the user may know which sources are authoritative and which debates remain unsettled. In an unfamiliar field, they may not know what good provenance looks like. A polished answer can therefore remove two kinds of friction at once: the friction of finding knowledge and the friction of seeing how uncertain that knowledge is.
 
-That is why borrowed breadth should be treated as a starting condition for inquiry rather than as a completed transfer of expertise. The system can help assemble the map. The user still has to determine which parts of the map deserve trust, which require deeper checking and which should be handed to someone who actually works in the terrain.
+Borrowed breadth is most useful when treated as a starting condition for inquiry rather than as a completed transfer of expertise. The system can help assemble the map. The user still has to determine which parts deserve trust, which require deeper checking and which should be handed to someone who actually works in the terrain.
 
 ### Fluency Is Not Understanding
 
@@ -116,9 +114,9 @@ NIST's Generative Artificial Intelligence Profile identifies confabulation among
 
 This matters especially outside one's own field.
 
-Inside a familiar domain, an experienced professional may notice when something sounds slightly wrong. A missing variable feels conspicuous. An assumption looks unrealistic. A citation seems implausible. A recommended procedure clashes with how the work actually happens.
+Inside a familiar domain, an experienced professional may notice when something deserves scrutiny: a missing variable, an unrealistic assumption, an implausible citation or a recommendation that clashes with how the work actually happens. Expertise does not guarantee error detection, but it can provide more domain-specific cues for noticing when something is off.
 
-Outside that domain, the same person may have no equivalent internal alarm.
+Outside that domain, the same person may have fewer such cues.
 
 They can recognise grammar.
 
@@ -128,23 +126,19 @@ They may not recognise error.
 
 **AI can make unfamiliar knowledge feel familiar before it has become understood.**
 
-This is where borrowed breadth can mimic polymathic capability without reproducing it.
-
-The person appears able to move across domains, but the movement may depend heavily on a system whose output the person cannot independently evaluate.
+This is where rapid access can mimic polymathic capability without reproducing it. The person appears able to move across domains, but the movement may depend heavily on a system whose output the person cannot independently evaluate.
 
 ### The Jagged Frontier
 
-The most useful evidence against simple stories of AI augmentation comes from research showing that AI value is not smooth.
+One influential illustration of AI's uneven value comes from research showing that performance gains can vary sharply by task.
 
 In a field experiment involving 758 Boston Consulting Group consultants, Fabrizio Dell'Acqua and colleagues examined professional tasks performed with and without GPT-4. On tasks deliberately selected to sit within the model's capability frontier, consultants using AI completed more tasks, worked faster and produced higher-quality outputs. On a different complex task designed to sit outside that frontier, however, participants using AI were 19 percentage points less likely to produce the correct solution than those working without it (Dell'Acqua et al., 2026).
 
 The result is important because the same broad technology, used by capable professionals in the same general work context, produced both substantial advantage and measurable disadvantage.
 
-The frontier was jagged.
+The study offers a useful illustration rather than a permanent boundary map. Model capabilities change, and the frontier depends on task, system and time.
 
-This is a better metaphor for contemporary AI than either assistant or replacement.
-
-A system can be exceptionally useful in one part of a workflow and misleading in another part that looks superficially similar. The user may not know, in advance, which side of the frontier they are standing on.
+Still, the underlying lesson is durable: apparent task similarity does not guarantee similar AI value, and users may not know in advance when assistance has crossed into a less reliable region.
 
 That creates a new burden for polymathic judgement.
 
@@ -154,7 +148,7 @@ The problem is whether they know when the answer deserves trust.
 
 ### AI as an Orientation Engine
 
-This is why one of the strongest uses of AI in cross-domain work is orientation.
+For cross-domain work, orientation is one especially useful role for AI.
 
 When entering an unfamiliar field, the first difficulty is often not the answer. It is knowing what questions exist.
 
@@ -168,9 +162,7 @@ Which assumptions would a specialist consider naive?
 
 What evidence would normally be required before making the claim?
 
-AI can help dramatically at this stage.
-
-It can generate an initial map quickly enough that the user can move from vague curiosity to more intelligent inquiry.
+AI can help significantly at this stage. It can generate an initial map quickly enough that the user can move from vague curiosity to more intelligent inquiry.
 
 Imagine a technically strong leader asked to evaluate a proposed automated customer-decision system. The problem involves technology architecture, behavioural effects, regulation, privacy and operational design.
 
@@ -183,8 +175,6 @@ A useful conversation might surface the distinction between model accuracy and d
 That is not substitute expertise.
 
 It is expanded orientation.
-
-**AI can help you find the doors. It cannot tell you, by itself, which rooms you are qualified to redesign.**
 
 Used this way, AI can accelerate epistemic mobility. It helps the user change frames before they become trapped in the first one available.
 
@@ -212,7 +202,7 @@ The practical principle is more durable:
 
 **The farther you are from your own expertise, the less you can rely on recognition and the more you must rely on verification.**
 
-Verification might mean tracing a claim to a primary source. It might mean checking a current official standard. It might mean asking a specialist whether the generated interpretation is plausible. It might mean testing the recommendation against actual data or running a small experiment before acting at scale.
+Verification might mean tracing a claim to a primary source, checking a current official standard, asking a specialist whether the generated interpretation is plausible, or testing a recommendation against actual data before acting at scale.
 
 The method depends on the consequence.
 
@@ -220,9 +210,9 @@ The principle does not.
 
 ### When Connections Become Cheap
 
-Generative AI is particularly good at producing connections.
+Generative AI can produce candidate connections, analogies and comparisons very quickly.
 
-Ask for analogies between two fields and it will produce them. Ask for three models that might illuminate a problem and it will offer them. Ask how an idea from ecology might apply to organisational resilience, or how network theory might illuminate supply chains, and the response will often arrive instantly.
+Ask for analogies between two fields and it will offer them. Ask for several models that might illuminate a problem and it will propose them. Ask how an idea from ecology might apply to organisational resilience, or how network theory might illuminate supply chains, and candidate comparisons can arrive almost instantly.
 
 This is useful because Chapter 5 established that analogy can reveal structure that is difficult to see from inside one domain.
 
@@ -244,17 +234,7 @@ Which one should be abandoned?
 
 **When connections become cheap, judgement becomes expensive.**
 
-This is one reason AI does not reduce the importance of polymathic judgement.
-
-It increases it.
-
-A person using AI can now explore more domains, more frameworks and more comparisons in an afternoon than they might previously have encountered in months. Every additional connection creates another candidate for attention.
-
-Attention becomes scarce.
-
-Validation becomes scarce.
-
-The ability to decide which connection deserves further work becomes more valuable.
+That is one reason AI does not reduce the importance of polymathic judgement. It can increase the volume and speed of possible connections, leaving more work to be done in deciding which deserve attention, validation and further development.
 
 ### Overreliance Is a Human-AI Problem
 
@@ -276,9 +256,9 @@ AI is not irresistibly persuasive.
 
 But human presence alone is not a control.
 
-**Human oversight only adds value when the human has the information, authority, competence and process needed to challenge the system.**
+Effective human oversight depends on the human having enough information, authority, competence and process to challenge the system.
 
-That sentence is author synthesis informed by the evidence and governance literature.
+That is author synthesis informed by the evidence and governance literature.
 
 It matters because borrowed breadth can create exactly the opposite condition: the human is technically responsible for the decision while lacking enough domain depth to challenge the most sophisticated part of the generated answer.
 
@@ -304,9 +284,7 @@ The second says experts can always recognise when AI is wrong.
 
 Neither is supported.
 
-What AI appears to change is the allocation of effort.
-
-Some orientation, drafting, retrieval and translation become cheaper. That can increase the relative value of problem framing, contextual judgement, verification, exception recognition and integration.
+What AI appears to change, at least within some tasks, is the allocation of effort. As some retrieval, drafting and translation work becomes easier, problem framing, contextual judgement, verification, exception recognition and integration can matter more within the task.
 
 The expert's value is not merely possession of facts that a model can retrieve.
 
@@ -320,15 +298,13 @@ There is another boundary AI cannot erase merely by producing a recommendation.
 
 Accountability.
 
-A model can recommend a course of action. It can draft the rationale. It can identify risks. It can even produce an apparently balanced explanation of competing options.
+A model can recommend a course of action. It can draft the rationale. It can identify risks. It can produce an apparently balanced explanation of competing options.
 
 But consequential organisational decisions still occur inside systems of human and institutional responsibility.
 
 NIST's AI Risk Management Framework treats AI risk management as an organisational function across the lifecycle of a system, and its generative AI profile emphasises governance, testing, documentation, provenance and management oversight rather than treating responsibility as something transferred to the model (Tabassi, 2023; Autio et al., 2024).
 
-This matters most when AI is used precisely where the user lacks depth.
-
-A leader cannot say that a regulatory interpretation became acceptable because the model sounded confident. A clinician cannot turn a generated suggestion into professional responsibility borne by the model. A manager cannot outsource the fairness of a consequential employee decision to a system and then treat the output as its own justification.
+This matters most when AI is used precisely where the user lacks depth. A leader should not treat a regulatory interpretation as acceptable merely because the model sounded confident. Nor should an organisation treat a consequential employee recommendation as self-justifying because it came from an automated system.
 
 The details vary by profession and jurisdiction.
 
@@ -336,17 +312,13 @@ The underlying principle is broader.
 
 **AI can widen the search. It cannot inherit responsibility for the judgement.**
 
-That does not mean every AI-assisted decision requires the user personally to reproduce every specialist analysis.
-
-Professional work already depends on delegation and distributed expertise.
-
-The important question is whether the decision is being routed through appropriate human and institutional accountability rather than whether one individual independently knows everything.
+That responsibility is not always carried by one individual. Professional work already depends on delegation and distributed expertise. The relevant question is whether the decision is routed through appropriate human and institutional accountability, with clear ownership of who may accept, reject, verify or escalate the recommendation.
 
 That distinction prepares the ground for the next chapter.
 
 ### Use AI to Widen the Question
 
-What, then, does mature use of borrowed breadth look like?
+What, then, does useful borrowed breadth look like?
 
 It does not look like pretending to know more.
 
@@ -368,9 +340,7 @@ The same technology can produce both.
 
 The difference lies partly in how the human frames the task.
 
-This is where Chapter 8's practice returns.
-
-Anchor depth still matters. Comparison still matters. Context still matters. The problem still needs to answer back. Verification still matters. Competence boundaries still matter.
+This is where Chapter 8's practice returns. AI can accelerate exploration and comparison, but depth, context, verification and the willingness to let the problem answer back still discipline the work.
 
 AI can accelerate several parts of that practice.
 
