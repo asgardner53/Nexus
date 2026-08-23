@@ -8,13 +8,7 @@ There is a small rush when a difficult problem suddenly becomes intelligible. Th
 
 That feeling is useful. It is also where judgement can fail.
 
-In the previous chapter, we looked at how structure can travel across domains. An analogy can reveal a relationship that was difficult to see from inside the original problem. Traffic can illuminate congestion. Ecology can illuminate interdependence. Distributed systems can illuminate coordination. A good analogy does not merely decorate a problem. It changes what we notice.
-
-But every analogy leaves something behind.
-
-Traffic can help us think about queues in a hospital. It cannot tell us that patients are interchangeable units. An ecosystem can help us think about adaptation and dependency inside an organisation. It cannot tell us that employment relationships behave according to natural selection. A sports team can illuminate coordination, roles and practice. It can also smuggle in assumptions about competition, loyalty and winning that may be badly suited to a workplace.
-
-The point at which an analogy becomes persuasive is therefore not the point at which our work is finished. It is the point at which another question becomes necessary:
+The previous chapter showed how structure can travel across domains. But every useful transfer leaves something behind. The point at which an analogy becomes persuasive is therefore not the point at which our work is finished. It is the point at which another question becomes necessary:
 
 **What did not transfer?**
 
