@@ -264,13 +264,13 @@ Those are legitimate scholarly questions.
 
 They are not the questions this book most needs to answer.
 
-**Polymathic capability** is our practical organising concept.
+In Chapter 1, I used **polymathic capability** to describe the capacity to move responsibly across knowledge boundaries while remaining anchored by depth and disciplined by judgement. That remains the book's working definition.
 
-By it, I mean the developing capacity to build meaningful knowledge across domains and integrate those domains in ways that improve understanding or action.
+The immediate task here is narrower: to understand what gives that movement substance. Contemporary polymathy research is useful because it draws attention to breadth, depth and integration. Those dimensions do not replace the definition; they help explain what responsible movement has to work with.
 
-This is a synthesis for the purposes of this book.
+This remains a synthesis for the purposes of this book.
 
-I am not claiming to have discovered a new psychological construct, nor that this wording is an established academic definition. It draws on contemporary polymathy research, particularly the importance of breadth, depth and integration, and the rest of the book will test what additional mechanisms are needed to make that capability useful and responsible.
+I am not claiming to have discovered a new psychological construct, nor that the book's wording is an established academic definition. It draws on contemporary polymathy research, particularly the importance of breadth, depth and integration, while later chapters test what additional mechanisms are needed to make that capability useful and responsible.
 
 That transparency matters because attractive ideas can easily outrun their evidence.
 
