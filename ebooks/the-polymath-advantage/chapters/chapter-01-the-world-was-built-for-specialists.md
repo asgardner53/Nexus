@@ -50,6 +50,14 @@ It is a way of organising knowledge, skill, responsibility and trust.
 
 When we ask a qualified specialist for advice, we are not merely buying information. We are relying on years of learning, repeated exposure to similar problems, professional standards, methods of validation and a body of accumulated knowledge that has become too large or too consequential for everyone to reproduce independently.
 
+Expertise is also more than possession of facts. A specialist learns what tends to matter, what can be ignored, what counts as a warning sign, what evidence is considered persuasive and which apparently simple questions hide important complications. Much of that capability is difficult to compress into a checklist. It develops through practice, correction and repeated encounters with variation.
+
+This is one reason a novice with access to the same information as an expert does not suddenly become the expert's equivalent. The novice may be able to retrieve the rule. The specialist is more likely to recognise when the rule is relevant, when an exception matters and when the available evidence is too weak to support a confident answer.
+
+Specialisation therefore creates not only knowledge depth but judgement within a domain.
+
+That matters for the argument that follows. If depth were merely a store of information, easier access to information might make specialisation less important. But if depth also includes pattern recognition, methods, standards, tacit discrimination and calibrated judgement, then wider access changes the environment without removing the need for expertise.
+
 That is why the instinct to attack specialisation is misplaced.
 
 The modern hospital could not operate if everyone were a broad medical generalist. A commercial aircraft cannot be designed, certified, operated and maintained by a handful of clever all-rounders. Modern software infrastructure, energy systems, financial regulation and scientific research all depend on distinctions among people who know different things at different levels of depth.
@@ -76,7 +84,7 @@ The narrower conclusion is stronger because it is harder to dismiss.
 
 **As a knowledge frontier moves outward, reaching it can require more preparation and more concentrated expertise.**
 
-Related work by Jones on major inventors and Nobel laureates found that notable innovative achievement tended to occur at older ages across the twentieth century, consistent with a later productive start as preparation requirements increased (Jones, 2005). Again, the finding belongs to a particular population and should not be inflated into a general rule about every career.
+Related work by Jones on major inventors and Nobel laureates found that notable innovative achievement tended to occur at older ages across the twentieth century, consistent with a later productive start as preparation requirements increased (Jones, 2010). Again, the finding belongs to a particular population and should not be inflated into a general rule about every career.
 
 But the direction of the problem is clear.
 
@@ -85,6 +93,16 @@ There is more to know.
 That simple fact changes the economics of expertise.
 
 If one person cannot economically or cognitively internalise every body of knowledge relevant to a complex problem, then expertise must be distributed. Instead of expecting one mind to contain everything, we create professions, teams, institutions, specialist functions and networks.
+
+This division of intellectual labour is easy to mistake for fragmentation. Sometimes it is fragmentation. But often it is simply the rational consequence of depth. A modern organisation distributes legal, financial, technical, operational and human expertise because asking every person to become deeply competent in all of them would be wasteful, unrealistic and, in high-consequence settings, dangerous.
+
+The same logic applies within professions. Medicine divides into specialties and subspecialties. Engineering separates into fields and then into narrower areas of practice. Research communities develop specialised methods, journals and vocabularies. Organisations create functions because knowledge that matters repeatedly is easier to develop and govern when people can concentrate on it.
+
+The benefit is cumulative depth.
+
+The cost is distance.
+
+As expertise becomes distributed, no individual necessarily holds the whole problem. People see different parts of it through different standards, assumptions and vocabularies. The better a system becomes at concentrating knowledge, the more deliberate it may need to become about reconnecting that knowledge when a problem crosses domains.
 
 That response is rational.
 
@@ -111,6 +129,14 @@ Each answer can be locally correct and the overall decision can still be poor.
 Why?
 
 Because the questions may not align. Assumptions can conflict. Terminology can conceal disagreement. One discipline may optimise for a variable another treats as a constraint. Evidence that is persuasive inside one field may be incomplete for the wider decision. A recommendation can be valid within its own boundary but create consequences outside it.
+
+Integration is therefore not just a coordination problem. It is an intellectual problem.
+
+Scheduling a meeting does not integrate knowledge. Neither does collecting five reports, creating a multidisciplinary steering committee or asking everyone to "collaborate more". Integration requires somebody to notice where the claims touch, where they conflict and what changes when one domain is allowed to alter the framing supplied by another.
+
+Sometimes the contribution from another field is additive: it supplies a missing fact. Sometimes it is corrective: it shows that an assumption is wrong. Sometimes it changes the problem itself. A technical team may think it is optimising accuracy until an operational specialist shows that the real constraint is response time. A commercial team may think it is choosing between vendors until a privacy specialist reveals that one data architecture changes the organisation's risk exposure. The value of the second perspective lies not in adding another opinion but in changing what counts as the problem.
+
+This is where cross-boundary capability becomes more demanding than curiosity. Curiosity may get a person to look outside the home discipline. Integration requires the person to recognise which external knowledge should modify the current representation of the problem and which should not.
 
 This is not an argument against specialists.
 
@@ -161,6 +187,14 @@ It requires enough understanding to translate questions across boundaries.
 It requires enough judgement to know when a connection is useful and when it becomes overreach.
 
 And it requires enough humility to allow another person's depth to change the conclusion.
+
+This is why breadth is not automatically virtuous. A person can collect concepts from many fields and still use them badly. They can borrow terminology without understanding the conditions under which it is valid. They can notice superficial similarity and mistake it for structural equivalence. They can become more confident precisely because they now know enough vocabulary to sound convincing.
+
+Useful breadth has to improve judgement rather than merely enlarge the collection.
+
+It should help a person recognise relevant domains earlier, frame better questions, compare competing explanations and notice when an apparently local decision has consequences elsewhere. It should also make a person more aware of where their own competence ends.
+
+That last point is easy to underestimate. Crossing a boundary responsibly requires the ability to stop. If broader knowledge only increases the number of topics on which someone feels entitled to decide, it has weakened judgement rather than strengthened it.
 
 Later chapters will examine those capabilities carefully. For now, the important point is that specialisation does not eliminate the need for cross-boundary thinking. It creates the conditions under which that thinking becomes necessary.
 
@@ -304,9 +338,9 @@ Carollo, N.A., Cohen, E.D. & Huang, J. 2026, 'Revisiting Adam Smith and the Divi
 
 International Labour Organization n.d., 'The history of ISCO', International Standard Classification of Occupations, ILO.
 
-Jones, B.F. 2005, 'Age and Great Invention', NBER Working Paper No. 11359, National Bureau of Economic Research, Cambridge, MA, doi:10.3386/w11359.
-
 Jones, B.F. 2009, 'The Burden of Knowledge and the “Death of the Renaissance Man”: Is Innovation Getting Harder?', *The Review of Economic Studies*, vol. 76, no. 1, pp. 283–317, doi:10.1111/j.1467-937X.2008.00531.x.
+
+Jones, B.F. 2010, 'Age and Great Invention', *The Review of Economics and Statistics*, vol. 92, no. 1, pp. 1–14, doi:10.1162/rest.2009.11724.
 
 National Academies of Sciences, Engineering, and Medicine 2025, *The Science and Practice of Team Science*, National Academies Press, Washington, DC, doi:10.17226/29043.
 
